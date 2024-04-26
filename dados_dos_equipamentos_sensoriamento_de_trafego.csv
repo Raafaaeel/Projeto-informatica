@@ -1,55 +1,55 @@
 concessionaria;ano_do_pnv_snv;rodovia;uf;km_m;municipio;tipo_pista;sentido;situcacao;data_da_inativacao;latitude;longitude
-AUTOPISTA FERN√O DIAS;2007;BR-381;SP;35,663;Atibaia;Principal;Crescente;Ativo;;-23,094648;-46,572893
-AUTOPISTA FERN√O DIAS;2007;BR-381;SP;84,150;S„o Paulo;Principal;Decrescente;Ativo;;-23,449089;-46,569489
-AUTOPISTA FERN√O DIAS;2007;BR-381;MG;491,568;Betim;Principal;Decrescente;Ativo;;-19,961503;-44,155125
-AUTOPISTA FERN√O DIAS;2007;BR-381;MG;491,382;Betim;Principal;Crescente;Ativo;;-19,959866;-44,154548
-AUTOPISTA FERN√O DIAS;2007;BR-381;MG;491,568;Betim;Principal;Decrescente;Ativo;;-19,961624;-44,155284
-AUTOPISTA FERN√O DIAS;2007;BR-381;MG;491,382;Betim;Principal;Crescente;Ativo;;-19,959957;-44,154569
+AUTOPISTA FERN√ÉO DIAS;2007;BR-381;SP;35,663;Atibaia;Principal;Crescente;Ativo;;-23,094648;-46,572893
+AUTOPISTA FERN√ÉO DIAS;2007;BR-381;SP;84,150;S√£o Paulo;Principal;Decrescente;Ativo;;-23,449089;-46,569489
+AUTOPISTA FERN√ÉO DIAS;2007;BR-381;MG;491,568;Betim;Principal;Decrescente;Ativo;;-19,961503;-44,155125
+AUTOPISTA FERN√ÉO DIAS;2007;BR-381;MG;491,382;Betim;Principal;Crescente;Ativo;;-19,959866;-44,154548
+AUTOPISTA FERN√ÉO DIAS;2007;BR-381;MG;491,568;Betim;Principal;Decrescente;Ativo;;-19,961624;-44,155284
+AUTOPISTA FERN√ÉO DIAS;2007;BR-381;MG;491,382;Betim;Principal;Crescente;Ativo;;-19,959957;-44,154569
 AUTOPISTA FLUMINENSE;2019;BR-101;RJ;78,370;Campos dos Goytacazes;Principal;Decrescente;Ativo;;-21,836399;-41,422569
 AUTOPISTA FLUMINENSE;2019;BR-101;RJ;106,020;Campos dos Goytacazes;Principal;Crescente;Ativo;;-21,925151;-41,622347
-AUTOPISTA FLUMINENSE;2019;BR-101;RJ;318,330;S„o GonÁalo;Principal;Decrescente;Ativo;;-22,846692;-43,098858
+AUTOPISTA FLUMINENSE;2019;BR-101;RJ;318,330;S√£o Gon√ßalo;Principal;Decrescente;Ativo;;-22,846692;-43,098858
 AUTOPISTA FLUMINENSE;2019;BR-101;RJ;49,300;Campos dos Goytacazes;Principal;Crescente;Ativo;;-21,620697;-41,314932
 AUTOPISTA LITORAL SUL;2009;BR-116;PR;108,600;Curitiba;Principal;Crescente/Decrescente;Ativo;;-25,565600;-49,244000
 AUTOPISTA LITORAL SUL;2009;BR-101;SC;43,100;Joinville;Principal;Crescente/Decrescente;Ativo;;-26,332300;-48,861500
 AUTOPISTA LITORAL SUL;2009;BR-101;SC;94,700;Barra Velha;Principal;Crescente/Decrescente;Ativo;;-26,709700;-48,702600
-AUTOPISTA LITORAL SUL;2009;BR-101;SC;116,300;ItajaÌ;Principal;Crescente/Decrescente;Ativo;;-26,881200;-48,725100
-AUTOPISTA LITORAL SUL;2009;BR-101;SC;137,800;Balne·rio Cambori˙;Principal;Crescente/Decrescente;Ativo;;-27,022100;-48,608600
-AUTOPISTA LITORAL SUL;2009;BR-101;SC;207,300;S„o JosÈ;Principal;Crescente/Decrescente;Ativo;;-27,601900;-48,627800
-AUTOPISTA LITORAL SUL;2009;BR-101;SC;232,900;PalhoÁa;Principal;Crescente/Decrescente;Ativo;;-27,802800;-48,637800
+AUTOPISTA LITORAL SUL;2009;BR-101;SC;116,300;Itaja√≠;Principal;Crescente/Decrescente;Ativo;;-26,881200;-48,725100
+AUTOPISTA LITORAL SUL;2009;BR-101;SC;137,800;Balne√°rio Cambori√∫;Principal;Crescente/Decrescente;Ativo;;-27,022100;-48,608600
+AUTOPISTA LITORAL SUL;2009;BR-101;SC;207,300;S√£o Jos√©;Principal;Crescente/Decrescente;Ativo;;-27,601900;-48,627800
+AUTOPISTA LITORAL SUL;2009;BR-101;SC;232,900;Palho√ßa;Principal;Crescente/Decrescente;Ativo;;-27,802800;-48,637800
 AUTOPISTA PLANALTO SUL;2017;BR-116;PR;116,740;Curitiba;Principal;Crescente/Decrescente;Ativo;;-25,557375;-49,306504
 AUTOPISTA PLANALTO SUL;2017;BR-116;PR;121,200;Curitiba;Principal;Crescente/Decrescente;Ativo;;-25,596167;-49,316670
 AUTOPISTA PLANALTO SUL;2017;BR-116;SC;7,370;Mafra;Principal;Crescente/Decrescente;Ativo;;-26,154595;-49,834919
 AUTOPISTA PLANALTO SUL;2017;BR-116;SC;247,100;Lages;Principal;Crescente/Decrescente;Ativo;;-27,813363;-50,369319
-AUTOPISTA PLANALTO SUL;2017;BR-116;SC;275,200;Cap„o Alto;Principal;Crescente/Decrescente;Ativo;;-28,003683;-50,538277
+AUTOPISTA PLANALTO SUL;2017;BR-116;SC;275,200;Cap√£o Alto;Principal;Crescente/Decrescente;Ativo;;-28,003683;-50,538277
 AUTOPISTA REGIS BITTENCOURT;2017;BR-116;SP;288,800;Itapecerica da Serra;Principal;Decrescente;Ativo;;-23,713140;-46,878712
 AUTOPISTA REGIS BITTENCOURT;2017;BR-116;SP;379,500;Miracatu;Principal;Crescente;Ativo;;-24,214619;-47,368093
 AUTOPISTA REGIS BITTENCOURT;2017;BR-116;SP;502,500;Cajati;Principal;Crescente;Ativo;;-24,779757;-48,189221
 AUTOPISTA REGIS BITTENCOURT;2017;BR-116;SP;550,460;Barra do Turvo;Principal;Crescente;Ativo;;-24,959187;-48,465148
 AUTOPISTA REGIS BITTENCOURT;2017;BR-116;SP;550,850;Barra do Turvo;Principal;Decrescente;Ativo;;-24,966266;-48,472219
-CONCEBRA;2017;BR-60;DF;2,900;BrasÌlia;Principal;Crescente;Ativo;;-15,890409;-48,087939
-CONCEBRA;2017;BR-60;DF;2,110;BrasÌlia;Principal;Decrescente;Ativo;;-15,890754;-48,087769
-CONCEBRA;2017;BR-60;DF;10,000;BrasÌlia;Principal;Crescente;Ativo;;-15,903248;-48,130674
-CONCEBRA;2017;BR-60;DF;10,000;BrasÌlia;Principal;Decrescente;Ativo;;-15,903690;-48,130524
-CONCEBRA;2017;BR-60;GO;24,100;Alex‚nia;Principal;Crescente;Ativo;;-16,114541;-48,436863
-CONCEBRA;2017;BR-60;GO;24,600;Alex‚nia;Principal;Decrescente;Ativo;;-16,114690;-48,436898
-CONCEBRA;2017;BR-60;GO;57,530;Abadi‚nia;Principal;Crescente;Ativo;;-16,189458;-48,681752
-CONCEBRA;2017;BR-60;GO;57,180;Abadi‚nia;Principal;Decrescente;Ativo;;-16,189244;-48,681698
-CONCEBRA;2017;BR-60;GO;60,665;Abadi‚nia;Principal;Crescente;Ativo;;-16,191408;-48,707231
-CONCEBRA;2017;BR-60;GO;60,106;Abadi‚nia;Principal;Decrescente;Ativo;;-16,191692;-48,707278
-CONCEBRA;2017;BR-60;GO;66,770;Abadi‚nia;Principal;Decrescente;Ativo;;-16,219111;-48,748676
-CONCEBRA;2017;BR-60;GO;66,127;Abadi‚nia;Principal;Crescente;Ativo;;-16,218993;-48,748865
-CONCEBRA;2017;BR-60;GO;83,780;An·polis;Principal;Decrescente;Ativo;;-16,315777;-48,852375
-CONCEBRA;2017;BR-60;GO;83,103;An·polis;Principal;Crescente;Ativo;;-16,315572;-48,852402
-CONCEBRA;2017;BR-60;GO;95,140;An·polis;Principal;Crescente;Ativo;;-16,366277;-48,937677
-CONCEBRA;2017;BR-60;GO;95,590;An·polis;Principal;Decrescente;Ativo;;-16,366452;-48,937490
-CONCEBRA;2017;BR-60;GO;112,170;Goian·polis;Principal;Decrescente;Ativo;;-16,452053;-49,050927
-CONCEBRA;2017;BR-60;GO;112,170;Goian·polis;Principal;Crescente;Ativo;;-16,451856;-49,051062
-CONCEBRA;2017;BR-60;GO;125,750;Goian·polis;Principal;Crescente;Ativo;;-16,531146;-49,145722
-CONCEBRA;2017;BR-60;GO;125,750;Goian·polis;Principal;Decrescente;Ativo;;-16,531291;-49,145639
-CONCEBRA;2017;BR-60;GO;132,000;Goi‚nia;Principal;Crescente;Ativo;;-16,581280;-49,171357
-CONCEBRA;2017;BR-60;GO;132,000;Goi‚nia;Principal;Decrescente;Ativo;;-16,581474;-49,171365
-CONCEBRA;2017;BR-153;GO;533,700;Hidrol‚ndia;Principal;Crescente;Ativo;;-16,991683;-49,229295
-CONCEBRA;2017;BR-153;GO;533,700;Hidrol‚ndia;Principal;Decrescente;Ativo;;-16,991627;-49,229114
+CONCEBRA;2017;BR-60;DF;2,900;Bras√≠lia;Principal;Crescente;Ativo;;-15,890409;-48,087939
+CONCEBRA;2017;BR-60;DF;2,110;Bras√≠lia;Principal;Decrescente;Ativo;;-15,890754;-48,087769
+CONCEBRA;2017;BR-60;DF;10,000;Bras√≠lia;Principal;Crescente;Ativo;;-15,903248;-48,130674
+CONCEBRA;2017;BR-60;DF;10,000;Bras√≠lia;Principal;Decrescente;Ativo;;-15,903690;-48,130524
+CONCEBRA;2017;BR-60;GO;24,100;Alex√¢nia;Principal;Crescente;Ativo;;-16,114541;-48,436863
+CONCEBRA;2017;BR-60;GO;24,600;Alex√¢nia;Principal;Decrescente;Ativo;;-16,114690;-48,436898
+CONCEBRA;2017;BR-60;GO;57,530;Abadi√¢nia;Principal;Crescente;Ativo;;-16,189458;-48,681752
+CONCEBRA;2017;BR-60;GO;57,180;Abadi√¢nia;Principal;Decrescente;Ativo;;-16,189244;-48,681698
+CONCEBRA;2017;BR-60;GO;60,665;Abadi√¢nia;Principal;Crescente;Ativo;;-16,191408;-48,707231
+CONCEBRA;2017;BR-60;GO;60,106;Abadi√¢nia;Principal;Decrescente;Ativo;;-16,191692;-48,707278
+CONCEBRA;2017;BR-60;GO;66,770;Abadi√¢nia;Principal;Decrescente;Ativo;;-16,219111;-48,748676
+CONCEBRA;2017;BR-60;GO;66,127;Abadi√¢nia;Principal;Crescente;Ativo;;-16,218993;-48,748865
+CONCEBRA;2017;BR-60;GO;83,780;An√°polis;Principal;Decrescente;Ativo;;-16,315777;-48,852375
+CONCEBRA;2017;BR-60;GO;83,103;An√°polis;Principal;Crescente;Ativo;;-16,315572;-48,852402
+CONCEBRA;2017;BR-60;GO;95,140;An√°polis;Principal;Crescente;Ativo;;-16,366277;-48,937677
+CONCEBRA;2017;BR-60;GO;95,590;An√°polis;Principal;Decrescente;Ativo;;-16,366452;-48,937490
+CONCEBRA;2017;BR-60;GO;112,170;Goian√°polis;Principal;Decrescente;Ativo;;-16,452053;-49,050927
+CONCEBRA;2017;BR-60;GO;112,170;Goian√°polis;Principal;Crescente;Ativo;;-16,451856;-49,051062
+CONCEBRA;2017;BR-60;GO;125,750;Goian√°polis;Principal;Crescente;Ativo;;-16,531146;-49,145722
+CONCEBRA;2017;BR-60;GO;125,750;Goian√°polis;Principal;Decrescente;Ativo;;-16,531291;-49,145639
+CONCEBRA;2017;BR-60;GO;132,000;Goi√¢nia;Principal;Crescente;Ativo;;-16,581280;-49,171357
+CONCEBRA;2017;BR-60;GO;132,000;Goi√¢nia;Principal;Decrescente;Ativo;;-16,581474;-49,171365
+CONCEBRA;2017;BR-153;GO;533,700;Hidrol√¢ndia;Principal;Crescente;Ativo;;-16,991683;-49,229295
+CONCEBRA;2017;BR-153;GO;533,700;Hidrol√¢ndia;Principal;Decrescente;Ativo;;-16,991627;-49,229114
 CONCEBRA;2017;BR-153;GO;569,730;Professor Jamil;Principal;Crescente;Ativo;;-17,292149;-49,234912
 CONCEBRA;2017;BR-153;GO;569,980;Professor Jamil;Principal;Decrescente;Ativo;;-17,292130;-49,234729
 CONCEBRA;2017;BR-153;GO;620,780;Morrinhos;Principal;Crescente;Ativo;;-17,718783;-49,154742
@@ -62,14 +62,14 @@ CONCEBRA;2017;BR-153;GO;696,350;Itumbiara;Principal;Crescente;Ativo;;-18,357804;
 CONCEBRA;2017;BR-153;GO;696,350;Itumbiara;Principal;Decrescente;Ativo;;-18,357765;-49,216787
 CONCEBRA;2017;BR-153;GO;699,220;Itumbiara;Principal;Crescente;Ativo;;-18,379786;-49,209745
 CONCEBRA;2017;BR-153;GO;699,220;Itumbiara;Principal;Decrescente;Ativo;;-18,379744;-49,209572
-CONCEBRA;2017;BR-153;MG;5,920;Arapor„;Principal;Crescente;Ativo;;-18,468860;-49,188387
-CONCEBRA;2017;BR-153;MG;5,920;Arapor„;Principal;Decrescente;Ativo;;-18,468862;-49,188277
+CONCEBRA;2017;BR-153;MG;5,920;Arapor√£;Principal;Crescente;Ativo;;-18,468860;-49,188387
+CONCEBRA;2017;BR-153;MG;5,920;Arapor√£;Principal;Decrescente;Ativo;;-18,468862;-49,188277
 CONCEBRA;2017;BR-153;MG;33,300;Centralina;Principal;Crescente;Ativo;;-18,704791;-49,141717
 CONCEBRA;2017;BR-153;MG;33,300;Centralina;Principal;Decrescente;Ativo;;-18,704766;-49,141621
 CONCEBRA;2017;BR-153;MG;35,700;Centralina;Principal;Crescente;Ativo;;-18,718664;-49,126601
 CONCEBRA;2017;BR-153;MG;35,700;Centralina;Principal;Decrescente;Ativo;;-18,718596;-49,126520
-CONCEBRA;2017;BR-153;MG;44,100;Can·polis;Principal;Crescente;Ativo;;-18,771478;-49,073259
-CONCEBRA;2017;BR-153;MG;44,100;Can·polis;Principal;Decrescente;Ativo;;-18,771496;-49,073147
+CONCEBRA;2017;BR-153;MG;44,100;Can√°polis;Principal;Crescente;Ativo;;-18,771478;-49,073259
+CONCEBRA;2017;BR-153;MG;44,100;Can√°polis;Principal;Decrescente;Ativo;;-18,771496;-49,073147
 CONCEBRA;2017;BR-153;MG;92,030;Prata;Principal;Crescente;Ativo;;-19,163427;-48,957610
 CONCEBRA;2017;BR-153;MG;92,030;Prata;Principal;Decrescente;Ativo;;-19,163392;-48,957527
 CONCEBRA;2017;BR-153;MG;104,700;Prata;Principal;Crescente;Ativo;;-19,271764;-48,919198
@@ -90,10 +90,10 @@ CONCEBRA;2017;BR-153;MG;239,500;Fronteira;Principal;Crescente;Ativo;;-20,257630;
 CONCEBRA;2017;BR-153;MG;239,500;Fronteira;Principal;Decrescente;Ativo;;-20,257658;-49,175342
 CONCEBRA;2017;BR-262;MG;357,450;Betim;Principal;Crescente;Ativo;;-19,983959;-44,239453
 CONCEBRA;2017;BR-262;MG;357,850;Betim;Principal;Decrescente;Ativo;;-19,984132;-44,239403
-CONCEBRA;2017;BR-262;MG;398,600;Par· de Minas;Principal;Crescente;Ativo;;-19,890773;-44,584195
-CONCEBRA;2017;BR-262;MG;398,110;Par· de Minas;Principal;Decrescente;Ativo;;-19,891107;-44,584305
-CONCEBRA;2017;BR-262;MG;425,940;S„o GonÁalo do Par·;Principal;Crescente;Ativo;;-19,888718;-44,827255
-CONCEBRA;2017;BR-262;MG;425,840;S„o GonÁalo do Par·;Principal;Decrescente;Ativo;;-19,888912;-44,827245
+CONCEBRA;2017;BR-262;MG;398,600;Par√° de Minas;Principal;Crescente;Ativo;;-19,890773;-44,584195
+CONCEBRA;2017;BR-262;MG;398,110;Par√° de Minas;Principal;Decrescente;Ativo;;-19,891107;-44,584305
+CONCEBRA;2017;BR-262;MG;425,940;S√£o Gon√ßalo do Par√°;Principal;Crescente;Ativo;;-19,888718;-44,827255
+CONCEBRA;2017;BR-262;MG;425,840;S√£o Gon√ßalo do Par√°;Principal;Decrescente;Ativo;;-19,888912;-44,827245
 CONCEBRA;2017;BR-262;MG;433,800;Nova Serrana;Principal;Crescente;Ativo;;-19,883027;-44,902727
 CONCEBRA;2017;BR-262;MG;433,105;Nova Serrana;Principal;Decrescente;Ativo;;-19,883196;-44,902797
 CONCEBRA;2017;BR-262;MG;435,750;Nova Serrana;Principal;Crescente;Ativo;;-19,879953;-44,914930
@@ -106,13 +106,13 @@ CONCEBRA;2017;BR-262;MG;481,980;Bom Despacho;Principal;Crescente;Ativo;;-19,7863
 CONCEBRA;2017;BR-262;MG;481,980;Bom Despacho;Principal;Decrescente;Ativo;;-19,786411;-45,300899
 CONCEBRA;2017;BR-262;MG;521,820;Luz;Principal;Crescente;Ativo;;-19,783281;-45,691240
 CONCEBRA;2017;BR-262;MG;521,820;Luz;Principal;Crescente;Ativo;;-19,783324;-45,691241
-CONCEBRA;2017;BR-262;MG;566,100;CÛrrego Danta;Principal;Crescente;Ativo;;-19,739449;-46,007577
-CONCEBRA;2017;BR-262;MG;566,100;CÛrrego Danta;Principal;Decrescente;Ativo;;-19,739482;-46,007617
-CONCEBRA;2017;BR-262;MG;664,030;Ibi·;Principal;Decrescente;Ativo;;-19,553369;-46,767677
-CONCEBRA;2017;BR-262;MG;664,330;Ibi·;Principal;Crescente;Ativo;;-19,553268;-46,767690
-CONCEBRA;2017;BR-262;MG;693,900;Arax·;Principal;Crescente;Ativo;;-19,561233;-46,973771
-CONCEBRA;2017;BR-262;MG;693,900;Arax·;Principal;Decrescente;Ativo;;-19,561275;-46,973727
-CONCEBRA;2017;BR-262;MG;694,200;Arax·;Principal;Crescente;Ativo;;-19,563148;-46,976022
+CONCEBRA;2017;BR-262;MG;566,100;C√≥rrego Danta;Principal;Crescente;Ativo;;-19,739449;-46,007577
+CONCEBRA;2017;BR-262;MG;566,100;C√≥rrego Danta;Principal;Decrescente;Ativo;;-19,739482;-46,007617
+CONCEBRA;2017;BR-262;MG;664,030;Ibi√°;Principal;Decrescente;Ativo;;-19,553369;-46,767677
+CONCEBRA;2017;BR-262;MG;664,330;Ibi√°;Principal;Crescente;Ativo;;-19,553268;-46,767690
+CONCEBRA;2017;BR-262;MG;693,900;Arax√°;Principal;Crescente;Ativo;;-19,561233;-46,973771
+CONCEBRA;2017;BR-262;MG;693,900;Arax√°;Principal;Decrescente;Ativo;;-19,561275;-46,973727
+CONCEBRA;2017;BR-262;MG;694,200;Arax√°;Principal;Crescente;Ativo;;-19,563148;-46,976022
 CONCEBRA;2017;BR-262;MG;731,300;Perdizes;Principal;Crescente;Ativo;;-19,765806;-47,875371
 CONCEBRA;2017;BR-262;MG;731,550;Perdizes;Principal;Decrescente;Ativo;;-19,765846;-47,875368
 CONCEBRA;2017;BR-262;MG;798,500;Uberaba;Principal;Crescente;Ativo;;-19,622584;-47,296368
@@ -123,10 +123,10 @@ CONCEBRA;2017;BR-262;MG;878,550;Campo Florido;Principal;Crescente;Ativo;;-19,761
 CONCEBRA;2017;BR-262;MG;878,550;Campo Florido;Principal;Decrescente;Ativo;;-19,761067;-48,592997
 CONCEBRA;2017;BR-262;MG;601,000;Campos Altos;Principal;Crescente;Ativo;;-19,647233;-46,239795
 CONCEBRA;2017;BR-262;MG;601,400;Campos Altos;Principal;Decrescente;Ativo;;-19,647202;-46,240462
-CONCEBRA;2017;BR-60;GO;43,900;Alex‚nia;Principal;Crescente;Ativo;;-16,116089;-48,589201
-CONCEBRA;2017;BR-60;GO;43,130;Alex‚nia;Principal;Decrescente;Ativo;;-16,115496;-48,589475
-CONCEBRA;2017;BR-60;GO;110,000;Goian·polis;Principal;Crescente;Ativo;;-16,437845;-49,019567
-CONCEBRA;2017;BR-60;GO;110,400;Goian·polis;Principal;Decrescente;Ativo;;-16,437804;-49,019581
+CONCEBRA;2017;BR-60;GO;43,900;Alex√¢nia;Principal;Crescente;Ativo;;-16,116089;-48,589201
+CONCEBRA;2017;BR-60;GO;43,130;Alex√¢nia;Principal;Decrescente;Ativo;;-16,115496;-48,589475
+CONCEBRA;2017;BR-60;GO;110,000;Goian√°polis;Principal;Crescente;Ativo;;-16,437845;-49,019567
+CONCEBRA;2017;BR-60;GO;110,400;Goian√°polis;Principal;Decrescente;Ativo;;-16,437804;-49,019581
 CONCEBRA;2017;BR-153;GO;554,000;Piracanjuba;Principal;Decrescente;Ativo;;-17,163931;-49,212477
 CONCEBRA;2017;BR-153;GO;554,400;Piracanjuba;Principal;Crescente;Ativo;;-17,163014;-49,213154
 CONCEBRA;2017;BR-153;GO;685,600;Itumbiara;Principal;Crescente;Ativo;;-18,268868;-49,245567
@@ -141,31 +141,31 @@ CONCEBRA;2017;BR-262;MG;514,000;Luz;Principal;Decrescente;Ativo;;-19,788490;-45,
 CONCEBRA;2017;BR-262;MG;514,400;Luz;Principal;Crescente;Ativo;;-19,788098;-45,584327
 CONCEBRA;2017;BR-262;MG;732,000;Perdizes;Principal;Decrescente;Ativo;;-19,617692;-47,346927
 CONCEBRA;2017;BR-262;MG;732,380;Perdizes;Principal;Crescente;Ativo;;-19,617568;-47,345839
-CONCEBRA;2017;BR-262;MG;863,500;ConceiÁ„o das Alagoas;Principal;Decrescente;Ativo;;-19,776996;-48,458649
-CONCEBRA;2017;BR-262;MG;863,800;ConceiÁ„o das Alagoas;Principal;Crescente;Ativo;;-19,776748;-48,457806
-CONCEBRA;2017;BR-153;GO;520,940;Hidrol‚ndia;Principal;Crescente;Ativo;;-16,884339;-49,253957
-CONCEBRA;2017;BR-153;GO;520,940;Hidrol‚ndia;Principal;Decrescente;Ativo;;-16,884610;-49,253613
+CONCEBRA;2017;BR-262;MG;863,500;Concei√ß√£o das Alagoas;Principal;Decrescente;Ativo;;-19,776996;-48,458649
+CONCEBRA;2017;BR-262;MG;863,800;Concei√ß√£o das Alagoas;Principal;Crescente;Ativo;;-19,776748;-48,457806
+CONCEBRA;2017;BR-153;GO;520,940;Hidrol√¢ndia;Principal;Crescente;Ativo;;-16,884339;-49,253957
+CONCEBRA;2017;BR-153;GO;520,940;Hidrol√¢ndia;Principal;Decrescente;Ativo;;-16,884610;-49,253613
 CONCER;2016;BR-40;RJ;101,420;Duque de Caxias;Principal;Decrescente;Ativo;;-22,606872;-43,285457
 CONCER;2016;BR-40;RJ;102,170;Duque de Caxias;Principal;Crescente;Ativo;;-22,613130;-43,286796
 CONCER;2016;BR-40;RJ;45,640;Areal;Principal;Decrescente;Ativo;;-22,281706;-43,119056
-CONCER;2016;BR-40;RJ;45,900;PetrÛpolis;Principal;Crescente;Ativo;;-22,286001;-43,121264
-CONCER;2016;BR-40;MG;816,260;Sim„o Pereira;Principal;Decrescente;Ativo;;-21,926249;-43,317706
-CONCER;2016;BR-40;MG;816,820;Sim„o Pereira;Principal;Crescente;Ativo;;-21,930337;-43,315481
-CRO;2016;BR-163;MT;102,800;RondonÛpolis;Principal;Crescente/Decrescente;Ativo;;-16,631449;-54,696677
+CONCER;2016;BR-40;RJ;45,900;Petr√≥polis;Principal;Crescente;Ativo;;-22,286001;-43,121264
+CONCER;2016;BR-40;MG;816,260;Sim√£o Pereira;Principal;Decrescente;Ativo;;-21,926249;-43,317706
+CONCER;2016;BR-40;MG;816,820;Sim√£o Pereira;Principal;Crescente;Ativo;;-21,930337;-43,315481
+CRO;2016;BR-163;MT;102,800;Rondon√≥polis;Principal;Crescente/Decrescente;Ativo;;-16,631449;-54,696677
 CRO;2016;BR-364;MT;252,000;Juscimeira;Principal;Crescente/Decrescente;Ativo;;-16,104905;-54,863034
-CRO;2016;BR-364;MT;263,600;S„o Pedro da Cipa;Principal;Crescente/Decrescente;Ativo;;-16,010307;-54,913688
-CRO;2016;BR-70;MT;496,100;Cuiab·;Principal;Crescente/Decrescente;Ativo;;-15,651187;-56,001596
-CRO;2016;BR-70;MT;523,600;V·rzea Grande;Principal;Crescente/Decrescente;Ativo;;-15,652761;-56,192837
+CRO;2016;BR-364;MT;263,600;S√£o Pedro da Cipa;Principal;Crescente/Decrescente;Ativo;;-16,010307;-54,913688
+CRO;2016;BR-70;MT;496,100;Cuiab√°;Principal;Crescente/Decrescente;Ativo;;-15,651187;-56,001596
+CRO;2016;BR-70;MT;523,600;V√°rzea Grande;Principal;Crescente/Decrescente;Ativo;;-15,652761;-56,192837
 CRO;2016;BR-163;MT;644,000;Lucas do Rio Verde;Principal;Crescente/Decrescente;Ativo;;-13,438624;-56,082285
 CRO;2016;BR-163;MT;734,500;Sorriso;Principal;Crescente/Decrescente;Ativo;;-12,692641;-55,806190
 CRO;2016;BR-163;MT;814,000;Sinop;Principal;Crescente/Decrescente;Ativo;;-12,049162;-55,517408
 CRO;2016;BR-163;MT;854,100;Sinop;Principal;Crescente/Decrescente;Ativo;;-11,695825;-55,452141
 CRO;2016;BR-364;MT;328,100;Campo Verde;Principal;Crescente/Decrescente;Ativo;;-15,820079;-55,419558
 CRO;2016;BR-364;MT;586,100;Diamantino;Principal;Crescente/Decrescente;Ativo;;-14,541408;-56,232335
-ECO050;2017;BR-50;GO;277,200;Catal„o;Principal;Crescente;Ativo;;-18,166928;-47,914944
-ECO050;2017;BR-50;GO;279,500;Catal„o;Principal;Decrescente;Ativo;;-18,176463;-47,933197
-ECO050;2017;BR-50;GO;281,100;Catal„o;Principal;Decrescente;Ativo;;-18,185546;-47,946073
-ECO050;2017;BR-50;GO;289,000;Catal„o;Principal;Decrescente;Ativo;;-18,240817;-47,988483
+ECO050;2017;BR-50;GO;277,200;Catal√£o;Principal;Crescente;Ativo;;-18,166928;-47,914944
+ECO050;2017;BR-50;GO;279,500;Catal√£o;Principal;Decrescente;Ativo;;-18,176463;-47,933197
+ECO050;2017;BR-50;GO;281,100;Catal√£o;Principal;Decrescente;Ativo;;-18,185546;-47,946073
+ECO050;2017;BR-50;GO;289,000;Catal√£o;Principal;Decrescente;Ativo;;-18,240817;-47,988483
 ECO050;2017;BR-50;MG;15,600;Araguari;Principal;Decrescente;Ativo;;-18,552487;-48,054301
 ECO050;2017;BR-50;MG;32,400;Araguari;Principal;Decrescente;Ativo;;-18,636778;-48,121558
 ECO050;2017;BR-50;MG;37,400;Araguari;Principal;Decrescente;Ativo;;-18,660906;-48,161275
@@ -177,7 +177,7 @@ ECO050;2017;BR-50;MG;8,970;Araguari;Principal;Crescente;Ativo;;-18,878599;-48,20
 ECO050;2017;BR-50;MG;13,720;Araguari;Principal;Decrescente;Ativo;;-18,907348;-48,179755
 ECO050;2017;BR-50;MG;17,200;Araguari;Principal;Decrescente;Ativo;;-18,923402;-48,185466
 ECO050;2017;BR-50;MG;20,400;Araguari;Principal;Decrescente;Ativo;;-18,937467;-48,211439
-ECO050;2017;BR-50;MG;78,150;Uberl‚ndia;Principal;Crescente;Ativo;;-18,946494;-48,218390
+ECO050;2017;BR-50;MG;78,150;Uberl√¢ndia;Principal;Crescente;Ativo;;-18,946494;-48,218390
 ECO050;2017;BR-50;MG;105,200;Uberaba;Principal;Decrescente;Ativo;;-19,184320;-48,156262
 ECO050;2017;BR-50;MG;129,970;Uberaba;Principal;Decrescente;Ativo;;-19,390192;-48,076707
 ECO050;2017;BR-50;MG;169,000;Uberaba;Principal;Crescente;Ativo;;-19,726755;-47,981214
@@ -193,18 +193,18 @@ ECO050;2017;BR-50;GO;97,800;Cristalina;Principal;Crescente;Ativo;;-16,767482;-47
 ECO050;2017;BR-50;GO;118,200;Ipameri;Principal;Crescente;Ativo;;-16,920902;-47,698042
 ECO050;2017;BR-50;GO;122,600;Ipameri;Principal;Crescente;Ativo;;-16,946382;-47,730792
 ECO050;2017;BR-50;GO;144,500;Ipameri;Principal;Crescente/Decrescente;Ativo;;-17,126553;-47,722114
-ECO050;2017;BR-50;GO;155,500;Campo Alegre de Goi·s;Principal;Crescente/Decrescente;Ativo;;-17,216943;-47,751510
-ECO050;2017;BR-50;GO;204,300;Campo Alegre de Goi·s;Principal;Crescente/Decrescente;Ativo;;-17,607183;-47,789868
-ECO050;2017;BR-50;GO;208,700;Campo Alegre de Goi·s;Principal;Crescente;Ativo;;-17,638382;-47,765447
-ECO050;2017;BR-50;GO;225,500;Campo Alegre de Goi·s;Principal;Decrescente;Ativo;;-17,767949;-47,746660
-ECO050;2017;BR-50;GO;260,000;Catal„o;Principal;Decrescente;Ativo;;-18,083956;-47,869697
-ECO050;2017;BR-50;GO;266,600;Catal„o;Principal;Decrescente;Ativo;;-18,083866;-47,869392
-ECO050;2017;BR-50;GO;271,300;Catal„o;Principal;Crescente;Ativo;;-18,117412;-47,895034
-ECO050;2017;BR-50;GO;275,000;Catal„o;Principal;Crescente;Ativo;;-18,148217;-47,907011
-ECO101 CONCESSIONARIA DE RODOVIAS S/A;2020;BR-101;ES;5,325;Pedro Can·rio;Principal;Crescente;Ativo;;-18,213022;-39,943694
-ECO101 CONCESSIONARIA DE RODOVIAS S/A;2020;BR-101;ES;77,921;S„o Mateus;Principal;Decrescente;Ativo;;-18,800683;-39,890911
+ECO050;2017;BR-50;GO;155,500;Campo Alegre de Goi√°s;Principal;Crescente/Decrescente;Ativo;;-17,216943;-47,751510
+ECO050;2017;BR-50;GO;204,300;Campo Alegre de Goi√°s;Principal;Crescente/Decrescente;Ativo;;-17,607183;-47,789868
+ECO050;2017;BR-50;GO;208,700;Campo Alegre de Goi√°s;Principal;Crescente;Ativo;;-17,638382;-47,765447
+ECO050;2017;BR-50;GO;225,500;Campo Alegre de Goi√°s;Principal;Decrescente;Ativo;;-17,767949;-47,746660
+ECO050;2017;BR-50;GO;260,000;Catal√£o;Principal;Decrescente;Ativo;;-18,083956;-47,869697
+ECO050;2017;BR-50;GO;266,600;Catal√£o;Principal;Decrescente;Ativo;;-18,083866;-47,869392
+ECO050;2017;BR-50;GO;271,300;Catal√£o;Principal;Crescente;Ativo;;-18,117412;-47,895034
+ECO050;2017;BR-50;GO;275,000;Catal√£o;Principal;Crescente;Ativo;;-18,148217;-47,907011
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;2020;BR-101;ES;5,325;Pedro Can√°rio;Principal;Crescente;Ativo;;-18,213022;-39,943694
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;2020;BR-101;ES;77,921;S√£o Mateus;Principal;Decrescente;Ativo;;-18,800683;-39,890911
 ECO101 CONCESSIONARIA DE RODOVIAS S/A;2020;BR-101;ES;169,669;Aracruz;Principal;Decrescente;Ativo;;-19,548456;-40,167211
-ECO101 CONCESSIONARIA DE RODOVIAS S/A;2020;BR-101;ES;226,496;Fund„o;Principal;Decrescente;Ativo;;-19,906400;-40,407233
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;2020;BR-101;ES;226,496;Fund√£o;Principal;Decrescente;Ativo;;-19,906400;-40,407233
 ECO101 CONCESSIONARIA DE RODOVIAS S/A;2020;BR-101;ES;239,947;Serra;Principal;Decrescente;Ativo;;-20,018050;-40,403450
 ECO101 CONCESSIONARIA DE RODOVIAS S/A;2020;BR-101;ES;293,783;Cariacica;Principal;Decrescente;Ativo;;-20,239447;-40,369667
 ECO101 CONCESSIONARIA DE RODOVIAS S/A;2020;BR-101;ES;297,392;Viana;Principal;Decrescente;Ativo;;-20,348528;-40,411717
@@ -217,70 +217,70 @@ ECOPONTE;2017;Acesso R 2;RJ;334,385;Rio de Janeiro;Principal;Crescente;Ativo;;-2
 ECOPONTE;2017;Acesso R 2 A;RJ;333,939;Rio de Janeiro;Principal;Decrescente;Ativo;;-22,885465;-43,217170
 ECOPONTE;2017;Acesso R 4;RJ;0,800;Rio de Janeiro;Principal;Crescente;Ativo;;-22,888018;-43,216701
 ECOPONTE;2017;Acesso R 4 A;RJ;0,560;Rio de Janeiro;Principal;Crescente;Ativo;;-22,888018;-43,216701
-ECOPONTE;2017;Acesso N 03;RJ;321,600;NiterÛi;Principal;Crescente;Ativo;;-22,879015;-43,113519
-ECOPONTE;2017;Acesso N 02;RJ;0,800;NiterÛi;Principal;Crescente;Ativo;;-22,880072;-43,113773
-ECOPONTE;2017;Acesso N 04;RJ;0,400;NiterÛi;Principal;Crescente;Ativo;;-22,881417;-43,114348
-ECOPONTE;2017;Acesso N 08;RJ;0,600;NiterÛi;Principal;Crescente;Ativo;;-22,881480;-43,114170
-ECOPONTE;2017;Acesso N 01;RJ;0,800;NiterÛi;Principal;Crescente;Ativo;;-22,879162;-43,113600
-ECOPONTE;2017;Acesso N 07;RJ;0,600;NiterÛi;Principal;Crescente;Ativo;;-22,879326;-43,113783
-ECOPONTE;2017;Acesso N 06;RJ;0,600;NiterÛi;Principal;Decrescente;Ativo;;-22,880072;-43,113773
+ECOPONTE;2017;Acesso N 03;RJ;321,600;Niter√≥i;Principal;Crescente;Ativo;;-22,879015;-43,113519
+ECOPONTE;2017;Acesso N 02;RJ;0,800;Niter√≥i;Principal;Crescente;Ativo;;-22,880072;-43,113773
+ECOPONTE;2017;Acesso N 04;RJ;0,400;Niter√≥i;Principal;Crescente;Ativo;;-22,881417;-43,114348
+ECOPONTE;2017;Acesso N 08;RJ;0,600;Niter√≥i;Principal;Crescente;Ativo;;-22,881480;-43,114170
+ECOPONTE;2017;Acesso N 01;RJ;0,800;Niter√≥i;Principal;Crescente;Ativo;;-22,879162;-43,113600
+ECOPONTE;2017;Acesso N 07;RJ;0,600;Niter√≥i;Principal;Crescente;Ativo;;-22,879326;-43,113783
+ECOPONTE;2017;Acesso N 06;RJ;0,600;Niter√≥i;Principal;Decrescente;Ativo;;-22,880072;-43,113773
 ECOPONTE;2017;Acesso R3;RJ;0,550;Rio de Janeiro;Principal;Crescente;Ativo;;-22,881500;-43,217874
 ECOPONTE;2017;Acesso R5A;RJ;0,400;Rio de Janeiro;Principal;Crescente;Ativo;;-22,881548;-43,217909
 ECOPONTE;2017;Acesso R5B;RJ;0,400;Rio de Janeiro;Principal;Decrescente;Ativo;;-22,881582;-43,217927
-ECOVIAS DO ARAGUAIA;2021;BR-153;TO;628,500;AlianÁa do Tocantins;Principal;Crescente;Ativo;;-11,345600;-48,954802
+ECOVIAS DO ARAGUAIA;2021;BR-153;TO;628,500;Alian√ßa do Tocantins;Principal;Crescente;Ativo;;-11,345600;-48,954802
 ECOVIAS DO ARAGUAIA;2021;BR-153;TO;669,500;Gurupi;Principal;Crescente;Ativo;;-11,698964;-49,072247
 ECOVIAS DO ARAGUAIA;2021;BR-153;TO;697,000;Cariri do Tocantins;Principal;Crescente;Ativo;;-11,924263;-49,181940
-ECOVIAS DO ARAGUAIA;2021;BR-153;TO;719,000;FigueirÛpolis;Principal;Crescente;Ativo;;-12,111655;-49,180709
+ECOVIAS DO ARAGUAIA;2021;BR-153;TO;719,000;Figueir√≥polis;Principal;Crescente;Ativo;;-12,111655;-49,180709
 ECOVIAS DO ARAGUAIA;2021;BR-153;TO;757,000;Alvorada;Principal;Crescente;Ativo;;-12,444228;-49,121134
-ECOVIAS DO ARAGUAIA;2021;BR-153;TO;790,000;Talism„;Principal;Crescente;Ativo;;-12,730822;-49,079438
-ECOVIAS DO ARAGUAIA;2021;BR-153;TO;798,000;Talism„;Principal;Crescente;Ativo;;-12,801000;-49,094000
+ECOVIAS DO ARAGUAIA;2021;BR-153;TO;790,000;Talism√£;Principal;Crescente;Ativo;;-12,730822;-49,079438
+ECOVIAS DO ARAGUAIA;2021;BR-153;TO;798,000;Talism√£;Principal;Crescente;Ativo;;-12,801000;-49,094000
 ECOVIAS DO ARAGUAIA;2021;BR-153;GO;25,000;Porangatu;Principal;Crescente;Ativo;;-13,048193;-49,176286
 ECOVIAS DO ARAGUAIA;2021;BR-153;GO;56,000;Porangatu;Principal;Crescente;Ativo;;-13,307290;-49,118966
 ECOVIAS DO ARAGUAIA;2021;BR-153;GO;65,500;Porangatu;Principal;Crescente;Ativo;;-13,393949;-49,129290
-ECOVIAS DO ARAGUAIA;2021;BR-153;GO;103,800;Santa Tereza de Goi·s;Principal;Crescente;Ativo;;-13,686713;-49,022831
+ECOVIAS DO ARAGUAIA;2021;BR-153;GO;103,800;Santa Tereza de Goi√°s;Principal;Crescente;Ativo;;-13,686713;-49,022831
 ECOVIAS DO ARAGUAIA;2021;BR-153;GO;121,000;Estrela do Norte;Principal;Crescente;Ativo;;-13,839056;-49,045357
 ECOVIAS DO ARAGUAIA;2021;BR-153;GO;140,000;Mara Rosa;Principal;Crescente;Ativo;;-14,002203;-49,087439
 ECOVIAS DO ARAGUAIA;2021;BR-153;GO;158,500;Campinorte;Principal;Crescente;Ativo;;-14,164210;-49,123473
-ECOVIAS DO ARAGUAIA;2021;BR-153;GO;189,000;UruaÁu;Principal;Crescente;Ativo;;-14,435732;-49,156773
-ECOVIAS DO ARAGUAIA;2021;BR-153;GO;202,300;UruaÁu;Principal;Crescente;Ativo;;-14,552720;-49,159150
-ECOVIAS DO ARAGUAIA;2021;BR-153;GO;215,000;UruaÁu;Principal;Crescente;Ativo;;-14,658899;-49,191838
-ECOVIAS DO ARAGUAIA;2021;BR-153;GO;249,600;S„o Luiz do Norte;Principal;Crescente;Ativo;;-14,924047;-49,361983
-ECOVIAS DO ARAGUAIA;2021;BR-153;GO;283,100;Nova GlÛria;Principal;Crescente;Ativo;;-15,120207;-49,499961
+ECOVIAS DO ARAGUAIA;2021;BR-153;GO;189,000;Urua√ßu;Principal;Crescente;Ativo;;-14,435732;-49,156773
+ECOVIAS DO ARAGUAIA;2021;BR-153;GO;202,300;Urua√ßu;Principal;Crescente;Ativo;;-14,552720;-49,159150
+ECOVIAS DO ARAGUAIA;2021;BR-153;GO;215,000;Urua√ßu;Principal;Crescente;Ativo;;-14,658899;-49,191838
+ECOVIAS DO ARAGUAIA;2021;BR-153;GO;249,600;S√£o Luiz do Norte;Principal;Crescente;Ativo;;-14,924047;-49,361983
+ECOVIAS DO ARAGUAIA;2021;BR-153;GO;283,100;Nova Gl√≥ria;Principal;Crescente;Ativo;;-15,120207;-49,499961
 ECOVIAS DO ARAGUAIA;2021;BR-153;GO;286,000;Rialma;Principal;Crescente;Ativo;;-15,193578;-49,544966
 ECOVIAS DO ARAGUAIA;2021;BR-153;GO;296,000;Rialma;Principal;Crescente;Ativo;;-15,277108;-49,552707
 ECOVIAS DO ARAGUAIA;2021;BR-153;GO;313,300;Rialma;Principal;Crescente;Ativo;;-15,412312;-49,526208
-ECOVIAS DO ARAGUAIA;2021;BR-153;GO;320,000;Rian·polis;Principal;Crescente;Ativo;;-15,465433;-49,499327
-ECOVIAS DO ARAGUAIA;2021;BR-153;GO;337,400;Jaragu·;Principal;Crescente;Ativo;;-15,590850;-49,410208
-ECOVIAS DO ARAGUAIA;2021;BR-153;GO;358,500;Jaragu·;Principal;Crescente;Ativo;;-15,746989;-49,318336
-ECOVIAS DO ARAGUAIA;2021;BR-153;GO;363,000;Jaragu·;Principal;Crescente;Ativo;;-15,791998;-49,301964
-ECOVIAS DO ARAGUAIA;2021;BR-153;GO;374,000;S„o Francisco de Goi·s;Principal;Crescente;Ativo;;-15,876451;-49,249481
-ECOVIAS DO ARAGUAIA;2021;BR-153;GO;384,000;S„o Francisco de Goi·s;Principal;Crescente;Ativo;;-15,946522;-49,190959
-ECOVIAS DO ARAGUAIA;2021;BR-153;GO;414,900;An·polis;Principal;Crescente;Ativo;;-16,191701;-49,033325
-ECOVIAS DO ARAGUAIA;2021;BR-153;GO;425,600;An·polis;Principal;Crescente;Ativo;;-16,236209;-49,005993
-ECOVIAS DO ARAGUAIA;2021;BR-153;GO;440,300;An·polis;Principal;Crescente;Ativo;;-16,332075;-48,922560
+ECOVIAS DO ARAGUAIA;2021;BR-153;GO;320,000;Rian√°polis;Principal;Crescente;Ativo;;-15,465433;-49,499327
+ECOVIAS DO ARAGUAIA;2021;BR-153;GO;337,400;Jaragu√°;Principal;Crescente;Ativo;;-15,590850;-49,410208
+ECOVIAS DO ARAGUAIA;2021;BR-153;GO;358,500;Jaragu√°;Principal;Crescente;Ativo;;-15,746989;-49,318336
+ECOVIAS DO ARAGUAIA;2021;BR-153;GO;363,000;Jaragu√°;Principal;Crescente;Ativo;;-15,791998;-49,301964
+ECOVIAS DO ARAGUAIA;2021;BR-153;GO;374,000;S√£o Francisco de Goi√°s;Principal;Crescente;Ativo;;-15,876451;-49,249481
+ECOVIAS DO ARAGUAIA;2021;BR-153;GO;384,000;S√£o Francisco de Goi√°s;Principal;Crescente;Ativo;;-15,946522;-49,190959
+ECOVIAS DO ARAGUAIA;2021;BR-153;GO;414,900;An√°polis;Principal;Crescente;Ativo;;-16,191701;-49,033325
+ECOVIAS DO ARAGUAIA;2021;BR-153;GO;425,600;An√°polis;Principal;Crescente;Ativo;;-16,236209;-49,005993
+ECOVIAS DO ARAGUAIA;2021;BR-153;GO;440,300;An√°polis;Principal;Crescente;Ativo;;-16,332075;-48,922560
 ECOVIAS DO ARAGUAIA;2021;BR-80;GO;154,000;Santa Rita do Novo Destino;Principal;Crescente;Ativo;;-14,827004;-49,036313
 ECOVIAS DO ARAGUAIA;2021;BR-80;GO;144,900;Santa Rita do Novo Destino;Principal;Decrescente;Ativo;;-14,884758;-48,982821
 ECOVIAS DO ARAGUAIA;2021;BR-80;GO;133,500;Barro Alto;Principal;Crescente;Ativo;;-14,970005;-48,930626
-ECOVIAS DO ARAGUAIA;2021;BR-80;GO;96,000;Vila PropÌcio;Principal;Crescente;Ativo;;-15,206548;-48,716588
-ECOVIAS DO ARAGUAIA;2021;BR-414;GO;316,000;Vila PropÌcio;Principal;Crescente;Ativo;;-15,341758;-48,647385
-ECOVIAS DO ARAGUAIA;2021;BR-414;GO;329,400;Cocalzinho de Goi·s;Principal;Crescente;Ativo;;-15,456191;-48,615047
-ECOVIAS DO ARAGUAIA;2021;BR-414;GO;337,000;Cocalzinho de Goi·s;Principal;Crescente;Ativo;;-15,524151;-48,624595
-ECOVIAS DO ARAGUAIA;2021;BR-414;GO;361,000;Cocalzinho de Goi·s;Principal;Crescente;Ativo;;-15,703283;-48,692486
-ECOVIAS DO ARAGUAIA;2021;BR-414;GO;373,600;Cocalzinho de Goi·s;Principal;Crescente;Ativo;;-15,771364;-48,754697
-ECOVIAS DO ARAGUAIA;2021;BR-414;GO;390,000;Corumb· de Goi·s;Principal;Crescente;Ativo;;-15,895937;-48,796139
-ECOVIAS DO ARAGUAIA;2021;BR-414;GO;397,500;Corumb· de Goi·s;Principal;Decrescente;Ativo;;-15,956214;-48,809984
-ECOVIAS DO ARAGUAIA;2021;BR-414;GO;413,000;Abadi‚nia;Principal;Crescente;Ativo;;-16,077051;-48,852491
-ECOVIAS DO CERRADO;2020;BR-364;GO;4,500;S„o Sim„o;Principal;Crescente;Ativo;;-19,018264;-50,536534
-ECOVIAS DO CERRADO;2020;BR-364;GO;8,600;S„o Sim„o;Principal;Crescente;Ativo;;-18,995192;-50,567080
-ECOVIAS DO CERRADO;2020;BR-364;GO;11,200;S„o Sim„o;Principal;Crescente;Ativo;;-18,981898;-50,587394
+ECOVIAS DO ARAGUAIA;2021;BR-80;GO;96,000;Vila Prop√≠cio;Principal;Crescente;Ativo;;-15,206548;-48,716588
+ECOVIAS DO ARAGUAIA;2021;BR-414;GO;316,000;Vila Prop√≠cio;Principal;Crescente;Ativo;;-15,341758;-48,647385
+ECOVIAS DO ARAGUAIA;2021;BR-414;GO;329,400;Cocalzinho de Goi√°s;Principal;Crescente;Ativo;;-15,456191;-48,615047
+ECOVIAS DO ARAGUAIA;2021;BR-414;GO;337,000;Cocalzinho de Goi√°s;Principal;Crescente;Ativo;;-15,524151;-48,624595
+ECOVIAS DO ARAGUAIA;2021;BR-414;GO;361,000;Cocalzinho de Goi√°s;Principal;Crescente;Ativo;;-15,703283;-48,692486
+ECOVIAS DO ARAGUAIA;2021;BR-414;GO;373,600;Cocalzinho de Goi√°s;Principal;Crescente;Ativo;;-15,771364;-48,754697
+ECOVIAS DO ARAGUAIA;2021;BR-414;GO;390,000;Corumb√° de Goi√°s;Principal;Crescente;Ativo;;-15,895937;-48,796139
+ECOVIAS DO ARAGUAIA;2021;BR-414;GO;397,500;Corumb√° de Goi√°s;Principal;Decrescente;Ativo;;-15,956214;-48,809984
+ECOVIAS DO ARAGUAIA;2021;BR-414;GO;413,000;Abadi√¢nia;Principal;Crescente;Ativo;;-16,077051;-48,852491
+ECOVIAS DO CERRADO;2020;BR-364;GO;4,500;S√£o Sim√£o;Principal;Crescente;Ativo;;-19,018264;-50,536534
+ECOVIAS DO CERRADO;2020;BR-364;GO;8,600;S√£o Sim√£o;Principal;Crescente;Ativo;;-18,995192;-50,567080
+ECOVIAS DO CERRADO;2020;BR-364;GO;11,200;S√£o Sim√£o;Principal;Crescente;Ativo;;-18,981898;-50,587394
 ECOVIAS DO CERRADO;2020;BR-364;GO;30,915;Paranaiguara;Principal;Crescente;Ativo;;-18,888287;-50,742164
 ECOVIAS DO CERRADO;2020;BR-364;GO;69,900;Cachoeira Alta;Principal;Crescente;Ativo;;-18,658353;-50,997220
 ECOVIAS DO CERRADO;2020;BR-364;GO;91,720;Cachoeira Alta;Principal;Crescente;Ativo;;-18,480852;-51,079023
 ECOVIAS DO CERRADO;2020;BR-364;GO;114,470;Aparecida do Rio Doce;Principal;Crescente;Ativo;;-18,292924;-51,153813
-ECOVIAS DO CERRADO;2020;BR-364;GO;157,640;JataÌ;Principal;Crescente;Ativo;;-18,101684;-51,489928
-ECOVIAS DO CERRADO;2020;BR-364;GO;159,170;JataÌ;Principal;Crescente;Ativo;;-18,091617;-51,499829
-ECOVIAS DO CERRADO;2020;BR-364;GO;168,220;JataÌ;Principal;Crescente;Ativo;;-18,033008;-51,551414
-ECOVIAS DO CERRADO;2020;BR-365;MG;644,200;Uberl‚ndia;Principal;Crescente;Ativo;;-18,879367;-48,501104
+ECOVIAS DO CERRADO;2020;BR-364;GO;157,640;Jata√≠;Principal;Crescente;Ativo;;-18,101684;-51,489928
+ECOVIAS DO CERRADO;2020;BR-364;GO;159,170;Jata√≠;Principal;Crescente;Ativo;;-18,091617;-51,499829
+ECOVIAS DO CERRADO;2020;BR-364;GO;168,220;Jata√≠;Principal;Crescente;Ativo;;-18,033008;-51,551414
+ECOVIAS DO CERRADO;2020;BR-365;MG;644,200;Uberl√¢ndia;Principal;Crescente;Ativo;;-18,879367;-48,501104
 ECOVIAS DO CERRADO;2020;BR-365;MG;667,435;Monte Alegre de Minas;Principal;Crescente;Ativo;;-18,888650;-48,709929
 ECOVIAS DO CERRADO;2020;BR-365;MG;688,380;Monte Alegre de Minas;Principal;Crescente;Ativo;;-18,876217;-48,886275
 ECOVIAS DO CERRADO;2020;BR-365;MG;700,970;Monte Alegre de Minas;Principal;Decrescente;Ativo;;-18,880429;-49,005609
@@ -288,124 +288,124 @@ ECOVIAS DO CERRADO;2020;BR-365;MG;708,730;Monte Alegre de Minas;Principal;Cresce
 ECOVIAS DO CERRADO;2020;BR-365;MG;740,930;Ituiutaba;Principal;Crescente;Ativo;;-18,913356;-49,380049
 ECOVIAS DO CERRADO;2020;BR-365;MG;749,600;Ituiutaba;Principal;Decrescente;Ativo;;-18,943429;-49,450574
 ECOVIAS DO CERRADO;2020;BR-365;MG;766,760;Ituiutaba;Principal;Crescente;Ativo;;-18,961722;-49,604915
-ECOVIAS DO CERRADO;2020;BR-365;MG;792,680;Gurinhat„;Principal;Crescente;Ativo;;-18,929795;-49,842217
-ECOVIAS DO CERRADO;2020;BR-365;MG;845,060;Santa VitÛria;Principal;Crescente;Ativo;;-18,975017;-50,293853
-ECOVIAS DO CERRADO;2020;BR-365;MG;869,030;Santa VitÛria;Principal;Crescente;Ativo;;-19,046197;-50,493726
+ECOVIAS DO CERRADO;2020;BR-365;MG;792,680;Gurinhat√£;Principal;Crescente;Ativo;;-18,929795;-49,842217
+ECOVIAS DO CERRADO;2020;BR-365;MG;845,060;Santa Vit√≥ria;Principal;Crescente;Ativo;;-18,975017;-50,293853
+ECOVIAS DO CERRADO;2020;BR-365;MG;869,030;Santa Vit√≥ria;Principal;Crescente;Ativo;;-19,046197;-50,493726
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;14,500;Queluz;Principal;Crescente;Ativo;;-22,559050;-44,826260
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;63,500;Guaratinguet·;Principal;Decrescente;Ativo;;-22,816400;-45,180780
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;63,500;Guaratinguet√°;Principal;Decrescente;Ativo;;-22,816400;-45,180780
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;71,000;Aparecida;Principal;Crescente;Ativo;;-22,859530;-45,234330
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Acesso km 71;SP;71,000;Aparecida;Principal;Crescente;Ativo;;-22,859530;-45,234330
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;99,100;Pindamonhangaba;Principal;Crescente;Ativo;;-22,982590;-45,465310
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Acesso km 99,1;SP;99,100;Pindamonhangaba;Principal;Crescente;Ativo;;-22,982590;-45,465310
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;116,300;TaubatÈ;Principal;Decrescente;Ativo;;-23,054990;-45,611300
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;118,500;TaubatÈ;Principal;Decrescente;Ativo;;-23,064790;-45,630950
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;137,500;S„o JosÈ dos Campos;Principal;Decrescente;Ativo;;-23,153410;-45,787800
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;145,400;S„o JosÈ dos Campos;Principal;Decrescente;Ativo;;-23,187460;-45,855280
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;145,400;S„o JosÈ dos Campos;Marginal;Decrescente;Ativo;;-23,187460;-45,855280
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;149,600;S„o JosÈ dos Campos;Principal;Decrescente;Ativo;;-23,208106;-45,887414
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;149,600;S„o JosÈ dos Campos;Marginal;Decrescente;Ativo;;-23,208106;-45,887414
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;149,600;S„o JosÈ dos Campos;Principal;Crescente;Ativo;;-23,207909;-45,887460
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;149,600;S„o JosÈ dos Campos;Marginal;Crescente;Ativo;;-23,207909;-45,887460
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;150,500;S„o JosÈ dos Campos;Principal;Decrescente;Ativo;;-23,215514;-45,895303
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;150,500;S„o JosÈ dos Campos;Marginal;Decrescente;Ativo;;-23,215514;-45,895303
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Faixa Ùnibus km 150,5;SP;150,500;S„o JosÈ dos Campos;Marginal;Decrescente;Ativo;;-23,215514;-45,895303
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;156,700;S„o JosÈ dos Campos;Principal;Decrescente;Ativo;;-23,252320;-45,938690
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;171,803;S„o Jo„o de Meriti;Marginal;Decrescente;Ativo;;-22,805760;-43,344120
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;SaÌda 2 km 166,0;RJ;171,803;Rio de Janeiro;Marginal;Decrescente;Ativo;;-22,805760;-43,344120
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;SaÌda km 166,0;RJ;171,803;Rio de Janeiro;Marginal;Decrescente;Ativo;;-22,805760;-43,344120
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;172,010;S„o Jo„o de Meriti;Principal;Decrescente;Ativo;;-22,804260;-43,346340
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;172,113;S„o Jo„o de Meriti;Marginal;Crescente;Ativo;;-22,803444;-43,347170
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;116,300;Taubat√©;Principal;Decrescente;Ativo;;-23,054990;-45,611300
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;118,500;Taubat√©;Principal;Decrescente;Ativo;;-23,064790;-45,630950
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;137,500;S√£o Jos√© dos Campos;Principal;Decrescente;Ativo;;-23,153410;-45,787800
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;145,400;S√£o Jos√© dos Campos;Principal;Decrescente;Ativo;;-23,187460;-45,855280
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;145,400;S√£o Jos√© dos Campos;Marginal;Decrescente;Ativo;;-23,187460;-45,855280
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;149,600;S√£o Jos√© dos Campos;Principal;Decrescente;Ativo;;-23,208106;-45,887414
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;149,600;S√£o Jos√© dos Campos;Marginal;Decrescente;Ativo;;-23,208106;-45,887414
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;149,600;S√£o Jos√© dos Campos;Principal;Crescente;Ativo;;-23,207909;-45,887460
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;149,600;S√£o Jos√© dos Campos;Marginal;Crescente;Ativo;;-23,207909;-45,887460
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;150,500;S√£o Jos√© dos Campos;Principal;Decrescente;Ativo;;-23,215514;-45,895303
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;150,500;S√£o Jos√© dos Campos;Marginal;Decrescente;Ativo;;-23,215514;-45,895303
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Faixa √¥nibus km 150,5;SP;150,500;S√£o Jos√© dos Campos;Marginal;Decrescente;Ativo;;-23,215514;-45,895303
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;156,700;S√£o Jos√© dos Campos;Principal;Decrescente;Ativo;;-23,252320;-45,938690
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;171,803;S√£o Jo√£o de Meriti;Marginal;Decrescente;Ativo;;-22,805760;-43,344120
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Sa√≠da 2 km 166,0;RJ;171,803;Rio de Janeiro;Marginal;Decrescente;Ativo;;-22,805760;-43,344120
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Sa√≠da km 166,0;RJ;171,803;Rio de Janeiro;Marginal;Decrescente;Ativo;;-22,805760;-43,344120
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;172,010;S√£o Jo√£o de Meriti;Principal;Decrescente;Ativo;;-22,804260;-43,346340
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;172,113;S√£o Jo√£o de Meriti;Marginal;Crescente;Ativo;;-22,803444;-43,347170
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Acesso km 166,3;RJ;172,113;Rio de Janeiro;Marginal;Crescente;Ativo;;-22,803444;-43,347170
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;168,400;JacareÌ;Principal;Decrescente;Ativo;;-23,305400;-46,035350
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;170,400;JacareÌ;Principal;Crescente;Ativo;;-23,307970;-46,055790
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;173,900;JacareÌ;Principal;Crescente;Ativo;;-23,319130;-46,087320
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;180,474;Nova IguaÁu;Principal;Decrescente;Ativo;;-22,765790;-43,414150
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;180,474;Nova IguaÁu;Marginal;Decrescente;Ativo;;-22,765790;-43,414150
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Acesso km 174 (Amoedo);RJ;180,474;Nova IguaÁu;Marginal;Decrescente;Ativo;;-22,765790;-43,414150
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;180,474;Nova IguaÁu;Principal;Crescente;Ativo;;-22,765790;-43,414150
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;180,474;Nova IguaÁu;Marginal;Crescente;Ativo;;-22,765790;-43,414150
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;168,400;Jacare√≠;Principal;Decrescente;Ativo;;-23,305400;-46,035350
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;170,400;Jacare√≠;Principal;Crescente;Ativo;;-23,307970;-46,055790
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;173,900;Jacare√≠;Principal;Crescente;Ativo;;-23,319130;-46,087320
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;180,474;Nova Igua√ßu;Principal;Decrescente;Ativo;;-22,765790;-43,414150
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;180,474;Nova Igua√ßu;Marginal;Decrescente;Ativo;;-22,765790;-43,414150
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Acesso km 174 (Amoedo);RJ;180,474;Nova Igua√ßu;Marginal;Decrescente;Ativo;;-22,765790;-43,414150
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;180,474;Nova Igua√ßu;Principal;Crescente;Ativo;;-22,765790;-43,414150
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;180,474;Nova Igua√ßu;Marginal;Crescente;Ativo;;-22,765790;-43,414150
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Acesso km 174;RJ;180,474;Belford Roxo;Marginal;Crescente;Ativo;;-22,765790;-43,414150
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;183,805;Nova IguaÁu;Principal;Crescente;Ativo;;-22,748490;-43,442830
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;SaÌda km 178;RJ;183,805;Nova IguaÁu;Principal;Crescente;Ativo;;-22,748490;-43,442830
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Acesso km 178;RJ;183,805;Nova IguaÁu;Principal;Crescente;Ativo;;-22,748490;-43,442830
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;183,805;Nova Igua√ßu;Principal;Crescente;Ativo;;-22,748490;-43,442830
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Sa√≠da km 178;RJ;183,805;Nova Igua√ßu;Principal;Crescente;Ativo;;-22,748490;-43,442830
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Acesso km 178;RJ;183,805;Nova Igua√ßu;Principal;Crescente;Ativo;;-22,748490;-43,442830
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;178,392;Guararema;Principal;Crescente;Ativo;;-23,327750;-46,128960
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;SaÌda km 178,5 (Ayrton Senna);SP;178,392;Guararema;Principal;Crescente;Ativo;;-23,327750;-46,128960
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Sa√≠da km 178,5 (Ayrton Senna);SP;178,392;Guararema;Principal;Crescente;Ativo;;-23,327750;-46,128960
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;180,197;Guararema;Principal;Crescente;Ativo;;-23,336350;-46,145560
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;186,473;Nova IguaÁu;Principal;Decrescente;Ativo;;-22,739510;-43,466660
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;186,473;Nova Igua√ßu;Principal;Decrescente;Ativo;;-22,739510;-43,466660
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;186,687;Santa Isabel;Principal;Decrescente;Ativo;;-23,354190;-46,202600
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;196,117;Queimados;Principal;Decrescente;Ativo;;-22,733330;-43,557070
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;199,820;Aruj·;Principal;Decrescente;Ativo;;-23,402900;-46,321300
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;211,424;ItaguaÌ;Principal;Crescente;Ativo;;-22,717990;-43,702440
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;SaÌda km 205,6;RJ;211,424;SeropÈdica;Principal;Crescente;Ativo;;-22,717990;-43,702440
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;199,820;Aruj√°;Principal;Decrescente;Ativo;;-23,402900;-46,321300
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;211,424;Itagua√≠;Principal;Crescente;Ativo;;-22,717990;-43,702440
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Sa√≠da km 205,6;RJ;211,424;Serop√©dica;Principal;Crescente;Ativo;;-22,717990;-43,702440
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;207,168;Guarulhos;Principal;Decrescente;Ativo;;-23,421050;-46,388490
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Acesso km 208,5;RJ;214,315;SeropÈdica;Principal;Decrescente;Ativo;;-22,714710;-43,728770
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;214,902;ItaguaÌ;Principal;Crescente;Ativo;;-22,712260;-43,734820
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Acesso km 209,1;RJ;214,902;SeropÈdica;Principal;Crescente;Ativo;;-22,712260;-43,734820
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Acesso km 208,5;RJ;214,315;Serop√©dica;Principal;Decrescente;Ativo;;-22,714710;-43,728770
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;214,902;Itagua√≠;Principal;Crescente;Ativo;;-22,712260;-43,734820
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Acesso km 209,1;RJ;214,902;Serop√©dica;Principal;Crescente;Ativo;;-22,712260;-43,734820
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;210,553;Guarulhos;Principal;Decrescente;Ativo;;-23,432160;-46,419110
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;210,553;Guarulhos;Marginal;Decrescente;Ativo;;-23,432160;-46,419110
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;SaÌda km 210,8;SP;210,553;Guarulhos;Marginal;Decrescente;Ativo;;-23,432160;-46,419110
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Sa√≠da km 210,8;SP;210,553;Guarulhos;Marginal;Decrescente;Ativo;;-23,432160;-46,419110
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;210,553;Guarulhos;Principal;Crescente;Ativo;;-23,432070;-46,419430
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;217,662;Guarulhos;Principal;Decrescente;Ativo;;-23,457770;-46,479990
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;217,662;Guarulhos;Marginal;Decrescente;Ativo;;-23,457770;-46,479990
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;217,662;Guarulhos;Principal;Crescente;Ativo;;-23,457330;-46,480160
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;217,662;Guarulhos;Marginal;Crescente;Ativo;;-23,457330;-46,480160
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;SaÌda km 217,8;SP;217,662;Guarulhos;Marginal;Crescente;Ativo;;-23,457330;-46,480160
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Sa√≠da km 217,8;SP;217,662;Guarulhos;Marginal;Crescente;Ativo;;-23,457330;-46,480160
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;219,012;Guarulhos;Marginal;Crescente;Ativo;;-23,462570;-46,492960
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Acesso km 219,2 (Aeroporto);SP;219,012;Guarulhos;Marginal;Crescente;Ativo;;-23,462570;-46,492960
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;225,125;PiraÌ;Principal;Decrescente;Ativo;;-22,678360;-43,815280
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;225,125;Pira√≠;Principal;Decrescente;Ativo;;-22,678360;-43,815280
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;225,601;Guarulhos;Marginal;Decrescente;Ativo;;-23,492290;-46,551000
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Acesso km 225,8 (UNG);SP;225,601;Guarulhos;Marginal;Decrescente;Ativo;;-23,492290;-46,551000
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;227,234;S„o Paulo;Marginal;Decrescente;Ativo;;-23,500200;-46,562420
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;227,533;S„o Paulo;Principal;Decrescente;Ativo;;-23,502157;-46,564940
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;227,533;S„o Paulo;Marginal;Decrescente;Ativo;;-23,502157;-46,564940
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;SaÌda km 227,7 (Fern„o Dias);SP;227,533;S„o Paulo;Marginal;Decrescente;Ativo;;-23,502157;-46,564940
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;227,533;S„o Paulo;Principal;Crescente;Ativo;;-23,502160;-46,564940
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;227,533;S„o Paulo;Marginal;Crescente;Ativo;;-23,502160;-46,564940
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;227,533;S„o Paulo;Marginal;Crescente;Ativo;;-23,502160;-46,564940
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;234,388;PiraÌ;Principal;Decrescente;Ativo;;-22,666510;-43,850200
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;227,234;S√£o Paulo;Marginal;Decrescente;Ativo;;-23,500200;-46,562420
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;227,533;S√£o Paulo;Principal;Decrescente;Ativo;;-23,502157;-46,564940
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;227,533;S√£o Paulo;Marginal;Decrescente;Ativo;;-23,502157;-46,564940
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Sa√≠da km 227,7 (Fern√£o Dias);SP;227,533;S√£o Paulo;Marginal;Decrescente;Ativo;;-23,502157;-46,564940
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;227,533;S√£o Paulo;Principal;Crescente;Ativo;;-23,502160;-46,564940
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;227,533;S√£o Paulo;Marginal;Crescente;Ativo;;-23,502160;-46,564940
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;SP;227,533;S√£o Paulo;Marginal;Crescente;Ativo;;-23,502160;-46,564940
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;234,388;Pira√≠;Principal;Decrescente;Ativo;;-22,666510;-43,850200
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;264,189;Barra Mansa;Principal;Crescente;Ativo;;-22,591390;-44,078030
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;264,189;Barra Mansa;Principal;Crescente;Ativo;;-22,591390;-44,078030
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;271,727;Barra Mansa;Principal;Decrescente;Ativo;;-22,559250;-44,124090
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;SaÌda km 265,7 (Barra Mansa);RJ;271,727;Barra Mansa;Principal;Decrescente;Ativo;;-22,559250;-44,124090
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Sa√≠da km 265,7 (Barra Mansa);RJ;271,727;Barra Mansa;Principal;Decrescente;Ativo;;-22,559250;-44,124090
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;291,680;Porto Real;Principal;Crescente;Ativo;;-22,474960;-44,267760
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;302,045;Resende;Principal;Crescente;Ativo;;-22,452240;-44,357460
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;SaÌda km 296,1;RJ;302,045;Porto Real;Principal;Crescente;Ativo;;-22,452240;-44,357460
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Sa√≠da km 296,1;RJ;302,045;Porto Real;Principal;Crescente;Ativo;;-22,452240;-44,357460
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Acesso km 296,1;RJ;302,045;Porto Real;Principal;Crescente;Ativo;;-22,452240;-44,357460
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;316,845;Itatiaia;Principal;Decrescente;Ativo;;-22,466710;-44,496130
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;SaÌda km 190,3;RJ;196,117;Queimados;Principal;Decrescente;Ativo;;-22,733330;-43,557070
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Sa√≠da km 190,3;RJ;196,117;Queimados;Principal;Decrescente;Ativo;;-22,733330;-43,557070
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Acesso km 190,3;RJ;196,117;Queimados;Principal;Decrescente;Ativo;;-22,733330;-43,557070
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;SaÌda km 190,3;RJ;196,117;Queimados;Principal;Decrescente;Ativo;;-22,733330;-43,557070
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;SaÌda km 71;SP;71,000;Aparecida;Principal;Decrescente;Ativo;;-22,859530;-45,234330
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;SaÌda km 99,1;SP;99,100;Pindamonhangaba;Principal;Decrescente;Ativo;;-22,982590;-45,465310
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Acesso km 145,4;SP;145,400;S„o JosÈ dos Campos;Marginal;Crescente;Ativo;;-23,187460;-45,855280
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;SaÌda km 150,5;SP;150,500;S„o JosÈ dos Campos;Marginal;Crescente;Ativo;;-23,215514;-45,895303
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Acesso Marg. Km 178 (princ.);RJ;183,805;Nova IguaÁu;Marginal;Decrescente;Ativo;;-22,748490;-43,442830
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Acesso Marg. Km 178 (local);RJ;183,805;Nova IguaÁu;Marginal;Decrescente;Ativo;;-22,748490;-43,442830
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;214,315;ItaguaÌ;Principal;Decrescente;Ativo;;-22,714710;-43,728770
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Sa√≠da km 190,3;RJ;196,117;Queimados;Principal;Decrescente;Ativo;;-22,733330;-43,557070
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Sa√≠da km 71;SP;71,000;Aparecida;Principal;Decrescente;Ativo;;-22,859530;-45,234330
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Sa√≠da km 99,1;SP;99,100;Pindamonhangaba;Principal;Decrescente;Ativo;;-22,982590;-45,465310
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Acesso km 145,4;SP;145,400;S√£o Jos√© dos Campos;Marginal;Crescente;Ativo;;-23,187460;-45,855280
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Sa√≠da km 150,5;SP;150,500;S√£o Jos√© dos Campos;Marginal;Crescente;Ativo;;-23,215514;-45,895303
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Acesso Marg. Km 178 (princ.);RJ;183,805;Nova Igua√ßu;Marginal;Decrescente;Ativo;;-22,748490;-43,442830
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Acesso Marg. Km 178 (local);RJ;183,805;Nova Igua√ßu;Marginal;Decrescente;Ativo;;-22,748490;-43,442830
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;BR-116;RJ;214,315;Itagua√≠;Principal;Decrescente;Ativo;;-22,714710;-43,728770
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Acesso km 225,8 (shopping);SP;225,601;Guarulhos;Marginal;Crescente;Ativo;;-23,492290;-46,551000
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;SaÌda km 149,6;SP;149,600;S„o JosÈ dos Campos;Marginal;Crescente;Ativo;;-23,207909;-45,887460
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;SaÌda km 149,6;SP;149,600;S„o JosÈ dos Campos;Marginal;Decrescente;Ativo;;-23,208106;-45,887414
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;SaÌda posto km 168,4;SP;168,400;JacareÌ;Principal;Crescente;Ativo;;-23,305400;-46,035350
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Sa√≠da km 149,6;SP;149,600;S√£o Jos√© dos Campos;Marginal;Crescente;Ativo;;-23,207909;-45,887460
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Sa√≠da km 149,6;SP;149,600;S√£o Jos√© dos Campos;Marginal;Decrescente;Ativo;;-23,208106;-45,887414
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Sa√≠da posto km 168,4;SP;168,400;Jacare√≠;Principal;Crescente;Ativo;;-23,305400;-46,035350
 HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Acesso km 178,5 (Ayrton Senna);SP;178,392;Guararema;Principal;Decrescente;Ativo;;-23,327750;-46,128960
-HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Acesso km 205,6;RJ;211,424;SeropÈdica;Principal;Decrescente;Ativo;;-22,717990;-43,702440
+HOLDING DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;2000;Acesso km 205,6;RJ;211,424;Serop√©dica;Principal;Decrescente;Ativo;;-22,717990;-43,702440
 MSVIA;2014;BR-163;MS;3,176;Mundo Novo;Principal;Crescente;Ativo;;-24,023145;-54,291388
 MSVIA;2014;BR-163;MS;10,548;Mundo Novo;Principal;Crescente;Ativo;;-23,974291;-54,330754
 MSVIA;2014;BR-163;MS;16,149;Mundo Novo;Principal;Crescente;Ativo;;-23,955173;-54,293356
 MSVIA;2014;BR-163;MS;28,955;Mundo Novo;Principal;Crescente;Ativo;;-23,859363;-54,333474
 MSVIA;2014;BR-163;MS;40,143;Eldorado;Principal;Crescente;Ativo;;-23,788059;-54,278746
 MSVIA;2014;BR-163;MS;60,107;Eldorado;Principal;Crescente;Ativo;;-23,622222;-54,233791
-MSVIA;2014;BR-163;MS;76,438;ItaquiraÌ;Principal;Crescente;Ativo;;-23,488544;-54,184690
-MSVIA;2014;BR-163;MS;91,365;ItaquiraÌ;Principal;Crescente;Ativo;;-23,358051;-54,214862
-MSVIA;2014;BR-163;MS;112,595;ItaquiraÌ;Principal;Crescente;Ativo;;-23,173513;-54,199276
-MSVIA;2014;BR-163;MS;121,256;NaviraÌ;Principal;Crescente;Ativo;;-23,105245;-54,222464
-MSVIA;2014;BR-163;MS;126,263;NaviraÌ;Principal;Crescente;Ativo;;-23,060973;-54,232030
-MSVIA;2014;BR-163;MS;132,756;NaviraÌ;Principal;Crescente;Ativo;;-23,026728;-54,282677
+MSVIA;2014;BR-163;MS;76,438;Itaquira√≠;Principal;Crescente;Ativo;;-23,488544;-54,184690
+MSVIA;2014;BR-163;MS;91,365;Itaquira√≠;Principal;Crescente;Ativo;;-23,358051;-54,214862
+MSVIA;2014;BR-163;MS;112,595;Itaquira√≠;Principal;Crescente;Ativo;;-23,173513;-54,199276
+MSVIA;2014;BR-163;MS;121,256;Navira√≠;Principal;Crescente;Ativo;;-23,105245;-54,222464
+MSVIA;2014;BR-163;MS;126,263;Navira√≠;Principal;Crescente;Ativo;;-23,060973;-54,232030
+MSVIA;2014;BR-163;MS;132,756;Navira√≠;Principal;Crescente;Ativo;;-23,026728;-54,282677
 MSVIA;2014;BR-163;MS;156,165;Juti;Principal;Crescente;Ativo;;-22,930280;-54,477707
 MSVIA;2014;BR-163;MS;177,199;Juti;Principal;Decrescente;Ativo;;-22,848992;-54,657370
-MSVIA;2014;BR-163;MS;195,704;CaarapÛ;Principal;Crescente;Ativo;;-22,742092;-54,790123
-MSVIA;2014;BR-163;MS;209,388;CaarapÛ;Principal;Decrescente;Ativo;;-22,627115;-54,819119
-MSVIA;2014;BR-163;MS;217,657;CaarapÛ;Principal;Crescente;Ativo;;-22,557000;-54,830522
-MSVIA;2014;BR-163;MS;228,554;CaarapÛ;Principal;Crescente;Ativo;;-22,471768;-54,856413
+MSVIA;2014;BR-163;MS;195,704;Caarap√≥;Principal;Crescente;Ativo;;-22,742092;-54,790123
+MSVIA;2014;BR-163;MS;209,388;Caarap√≥;Principal;Decrescente;Ativo;;-22,627115;-54,819119
+MSVIA;2014;BR-163;MS;217,657;Caarap√≥;Principal;Crescente;Ativo;;-22,557000;-54,830522
+MSVIA;2014;BR-163;MS;228,554;Caarap√≥;Principal;Crescente;Ativo;;-22,471768;-54,856413
 MSVIA;2014;BR-163;MS;254,548;Dourados;Principal;Crescente;Ativo;;-22,268624;-54,812497
 MSVIA;2014;BR-163;MS;257,314;Dourados;Principal;Crescente;Ativo;;-22,259122;-54,790671
 MSVIA;2014;BR-163;MS;261,106;Dourados;Principal;Crescente;Ativo;;-22,238651;-54,764696
@@ -436,8 +436,8 @@ MSVIA;2014;BR-163;MS;544,446;Bandeirantes;Principal;Decrescente;Ativo;;-19,95222
 MSVIA;2014;BR-163;MS;548,944;Bandeirantes;Principal;Decrescente;Ativo;;-19,913902;-54,369889
 MSVIA;2014;BR-163;MS;562,569;Bandeirantes;Principal;Crescente;Ativo;;-19,792738;-54,367371
 MSVIA;2014;BR-163;MS;583,012;Bandeirantes;Principal;Crescente;Ativo;;-19,619510;-54,381708
-MSVIA;2014;BR-163;MS;604,281;S„o Gabriel do Oeste;Principal;Crescente;Ativo;;-19,467550;-54,502567
-MSVIA;2014;BR-163;MS;640,990;S„o Gabriel do Oeste;Principal;Crescente;Ativo;;-19,218865;-54,729072
+MSVIA;2014;BR-163;MS;604,281;S√£o Gabriel do Oeste;Principal;Crescente;Ativo;;-19,467550;-54,502567
+MSVIA;2014;BR-163;MS;640,990;S√£o Gabriel do Oeste;Principal;Crescente;Ativo;;-19,218865;-54,729072
 MSVIA;2014;BR-163;MS;674,278;Rio Verde de Mato Grosso;Principal;Crescente;Ativo;;-18,968183;-54,822866
 MSVIA;2014;BR-163;MS;689,625;Rio Verde de Mato Grosso;Principal;Decrescente;Ativo;;-18,842225;-54,815399
 MSVIA;2014;BR-163;MS;701,221;Rio Verde de Mato Grosso;Principal;Crescente;Ativo;;-18,741736;-54,820095
@@ -447,30 +447,30 @@ MSVIA;2014;BR-163;MS;760,612;Coxim;Principal;Decrescente;Ativo;;-18,248228;-54,6
 MSVIA;2014;BR-163;MS;783,289;Coxim;Principal;Decrescente;Ativo;;-18,061576;-54,689844
 MSVIA;2014;BR-163;MS;817,594;Pedro Gomes;Principal;Decrescente;Ativo;;-17,768884;-54,750391
 MSVIA;2014;BR-163;MS;838,612;Sonora;Principal;Decrescente;Ativo;;-17,581531;-54,743003
-RODOVIA DO A«O;2016;BR-393;RJ;103,500;Sapucaia;Principal;Crescente/Decrescente;Ativo;;-21,879185;-42,679948
-RODOVIA DO A«O;2016;BR-393;RJ;103,850;Sapucaia;Principal;Crescente/Decrescente;Ativo;;-21,880429;-42,683511
-RODOVIA DO A«O;2016;BR-393;RJ;166,100;TrÍs Rios;Principal;Crescente/Decrescente;Ativo;;-22,125948;-43,154542
-RODOVIA DO A«O;2016;BR-393;RJ;167,400;TrÍs Rios;Principal;Crescente/Decrescente;Ativo;;-22,121005;-43,162966
-RODOVIA DO A«O;2016;BR-393;RJ;175,500;TrÍs Rios;Principal;Crescente/Decrescente;Ativo;;-22,124106;-43,230318
-RODOVIA DO A«O;2016;BR-393;RJ;175,650;TrÍs Rios;Principal;Crescente/Decrescente;Ativo;;-22,121795;-43,232358
-RODOVIA DO A«O;2016;BR-393;RJ;176,600;TrÍs Rios;Principal;Crescente/Decrescente;Ativo;;-22,129353;-43,239295
-RODOVIA DO A«O;2016;BR-393;RJ;252,000;Barra do PiraÌ;Principal;Crescente/Decrescente;Ativo;;-22,453457;-43,808067
-RODOVIA DO A«O;2016;BR-393;RJ;253,000;Barra do PiraÌ;Principal;Crescente/Decrescente;Ativo;;-22,452692;-43,817642
-RODOVIA DO A«O;2016;BR-393;RJ;276,080;Barra do PiraÌ;Principal;Crescente/Decrescente;Ativo;;-22,476423;-44,011991
-RODOVIA DO A«O;2016;BR-393;RJ;283,000;Volta Redonda;Principal;Crescente/Decrescente;Ativo;;-22,488582;-44,063785
-RODOVIA DO A«O;2016;AlÁa de Entrada da BR-040;RJ;166,100;TrÍs Rios;Principal;Crescente;Ativo;;-22,125948;-43,154542
-RODOVIA DO A«O;2016;AlÁa de SaÌda da BR-040;RJ;166,100;TrÍs Rios;Principal;Decrescente;Ativo;;-22,125948;-43,154542
-TRANSBRASILIANA;2015;BR-153;SP;59,700;S„o JosÈ do Rio Preto;Principal;Crescente;Ativo;;-20,795488;-49,354821
-TRANSBRASILIANA;2015;BR-153;SP;59,700;S„o JosÈ do Rio Preto;Principal;Crescente;Ativo;;-20,795488;-49,354821
+RODOVIA DO A√áO;2016;BR-393;RJ;103,500;Sapucaia;Principal;Crescente/Decrescente;Ativo;;-21,879185;-42,679948
+RODOVIA DO A√áO;2016;BR-393;RJ;103,850;Sapucaia;Principal;Crescente/Decrescente;Ativo;;-21,880429;-42,683511
+RODOVIA DO A√áO;2016;BR-393;RJ;166,100;Tr√™s Rios;Principal;Crescente/Decrescente;Ativo;;-22,125948;-43,154542
+RODOVIA DO A√áO;2016;BR-393;RJ;167,400;Tr√™s Rios;Principal;Crescente/Decrescente;Ativo;;-22,121005;-43,162966
+RODOVIA DO A√áO;2016;BR-393;RJ;175,500;Tr√™s Rios;Principal;Crescente/Decrescente;Ativo;;-22,124106;-43,230318
+RODOVIA DO A√áO;2016;BR-393;RJ;175,650;Tr√™s Rios;Principal;Crescente/Decrescente;Ativo;;-22,121795;-43,232358
+RODOVIA DO A√áO;2016;BR-393;RJ;176,600;Tr√™s Rios;Principal;Crescente/Decrescente;Ativo;;-22,129353;-43,239295
+RODOVIA DO A√áO;2016;BR-393;RJ;252,000;Barra do Pira√≠;Principal;Crescente/Decrescente;Ativo;;-22,453457;-43,808067
+RODOVIA DO A√áO;2016;BR-393;RJ;253,000;Barra do Pira√≠;Principal;Crescente/Decrescente;Ativo;;-22,452692;-43,817642
+RODOVIA DO A√áO;2016;BR-393;RJ;276,080;Barra do Pira√≠;Principal;Crescente/Decrescente;Ativo;;-22,476423;-44,011991
+RODOVIA DO A√áO;2016;BR-393;RJ;283,000;Volta Redonda;Principal;Crescente/Decrescente;Ativo;;-22,488582;-44,063785
+RODOVIA DO A√áO;2016;Al√ßa de Entrada da BR-040;RJ;166,100;Tr√™s Rios;Principal;Crescente;Ativo;;-22,125948;-43,154542
+RODOVIA DO A√áO;2016;Al√ßa de Sa√≠da da BR-040;RJ;166,100;Tr√™s Rios;Principal;Decrescente;Ativo;;-22,125948;-43,154542
+TRANSBRASILIANA;2015;BR-153;SP;59,700;S√£o Jos√© do Rio Preto;Principal;Crescente;Ativo;;-20,795488;-49,354821
+TRANSBRASILIANA;2015;BR-153;SP;59,700;S√£o Jos√© do Rio Preto;Principal;Crescente;Ativo;;-20,795488;-49,354821
 TRANSBRASILIANA;2015;BR-153;SP;74,200;Bady Bassitt;Principal;Crescente;Ativo;;-20,888668;-49,429253
 TRANSBRASILIANA;2015;BR-153;SP;23,700;Nova Granada;Principal;Crescente;Ativo;;-20,489416;-49,308720
-TRANSBRASILIANA;2015;BR-153;SP;217,600;MarÌlia;Principal;Decrescente;Ativo;;-21,972363;-49,918875
-TRANSBRASILIANA;2015;BR-153;SP;319,100;Ribeir„o do Sul;Principal;Decrescente;Ativo;;-22,756978;-49,889680
+TRANSBRASILIANA;2015;BR-153;SP;217,600;Mar√≠lia;Principal;Decrescente;Ativo;;-21,972363;-49,918875
+TRANSBRASILIANA;2015;BR-153;SP;319,100;Ribeir√£o do Sul;Principal;Decrescente;Ativo;;-22,756978;-49,889680
 TRANSBRASILIANA;2015;BR-153;SP;340,000;Ourinhos;Principal;Decrescente;Ativo;;-22,930938;-49,911232
-TRANSBRASILIANA;2015;BR-153;SP;104,100;JosÈ Bonif·cio;Principal;Crescente;Ativo;;-21,039771;-49,650687
+TRANSBRASILIANA;2015;BR-153;SP;104,100;Jos√© Bonif√°cio;Principal;Crescente;Ativo;;-21,039771;-49,650687
 VIA 040;2010;BR-40;GO;92,570;Cristalina;Principal;Crescente;Ativo;;-16,733869;-47,622169
-VIA 040;2010;BR-40;MG;145,110;Jo„o Pinheiro;Principal;Crescente;Ativo;;-17,755725;-46,162781
-VIA 040;2010;BR-40;MG;360,360;Felixl‚ndia;Principal;Crescente;Ativo;;-18,754436;-44,847506
+VIA 040;2010;BR-40;MG;145,110;Jo√£o Pinheiro;Principal;Crescente;Ativo;;-17,755725;-46,162781
+VIA 040;2010;BR-40;MG;360,360;Felixl√¢ndia;Principal;Crescente;Ativo;;-18,754436;-44,847506
 VIA 040;2010;BR-40;MG;423,380;Curvelo;Principal;Crescente;Ativo;;-19,153261;-44,536047
 VIA 040;2010;BR-40;MG;493,490;Pedro Leopoldo;Principal;Crescente;Ativo;;-19,645675;-44,203189
 VIA 040;2010;BR-40;MG;533,280;Belo Horizonte;Principal;Crescente;Ativo;;-19,927497;-44,006650
@@ -479,68 +479,68 @@ VIA 040;2010;BR-40;MG;543,190;Belo Horizonte;Principal;Crescente;Ativo;;-19,9929
 VIA 040;2010;BR-40;MG;699,030;Barbacena;Principal;Crescente;Ativo;;-21,197281;-43,749036
 VIA 040;2010;BR-40;MG;716,500;Barbacena;Principal;Crescente;Ativo;;-21,271833;-43,648536
 VIA BAHIA;2003;BR-324;BA;618,500;Salvador;Principal;Decrescente;Ativo;;-12,901840;-38,452650
-VIA BAHIA;2003;BR-324;BA;610,000;Simıes Filho;Principal;Decrescente;Ativo;;-12,839240;-38,414490
-VIA BAHIA;2003;BR-324;BA;597,200;Simıes Filho;Principal;Decrescente;Ativo;;-12,739110;-38,439450
+VIA BAHIA;2003;BR-324;BA;610,000;Sim√µes Filho;Principal;Decrescente;Ativo;;-12,839240;-38,414490
+VIA BAHIA;2003;BR-324;BA;597,200;Sim√µes Filho;Principal;Decrescente;Ativo;;-12,739110;-38,439450
 VIA BAHIA;2003;BR-324;BA;590,900;Candeias;Principal;Decrescente;Ativo;;-12,691890;-38,464970
-VIA BAHIA;2003;BR-324;BA;562,700;S„o Sebasti„o do PassÈ;Principal;Decrescente;Ativo;;-12,513420;-38,624620
-VIA BAHIA;2003;BR-324;BA;550,000;AmÈlia Rodrigues;Principal;Decrescente;Ativo;;-12,448090;-38,712890
+VIA BAHIA;2003;BR-324;BA;562,700;S√£o Sebasti√£o do Pass√©;Principal;Decrescente;Ativo;;-12,513420;-38,624620
+VIA BAHIA;2003;BR-324;BA;550,000;Am√©lia Rodrigues;Principal;Decrescente;Ativo;;-12,448090;-38,712890
 VIA BAHIA;2003;BR-324;BA;525,000;Feira de Santana;Principal;Decrescente;Ativo;;-12,309730;-38,885620
-VIA BAHIA;2003;BR-116;BA;445,734;AntÙnio Cardoso;Principal;Crescente;Ativo;;-12,376009;-39,121852
+VIA BAHIA;2003;BR-116;BA;445,734;Ant√¥nio Cardoso;Principal;Crescente;Ativo;;-12,376009;-39,121852
 VIA BAHIA;2003;BR-116;BA;481,910;Rafael Jambeiro;Principal;Decrescente;Ativo;;-12,315099;-39,244583
 VIA BAHIA;2003;BR-116;BA;501,714;Santa Terezinha;Principal;Decrescente;Ativo;;-12,614154;-39,570846
 VIA BAHIA;2003;BR-116;BA;543,710;Itatim;Principal;Crescente;Ativo;;-12,850739;-39,843627
 VIA BAHIA;2003;BR-116;BA;581,168;Nova Itarana;Principal;Crescente;Ativo;;-13,104318;-39,992116
 VIA BAHIA;2003;BR-116;BA;628,870;Jaguaquara;Principal;Decrescente;Ativo;;-13,485561;-40,044225
 VIA BAHIA;2003;BR-116;BA;646,833;Jaguaquara;Principal;Decrescente;Ativo;;-13,633891;-40,092955
-VIA BAHIA;2003;BR-116;BA;666,659;JequiÈ;Principal;Decrescente;Ativo;;-13,807196;-40,111870
+VIA BAHIA;2003;BR-116;BA;666,659;Jequi√©;Principal;Decrescente;Ativo;;-13,807196;-40,111870
 VIA BAHIA;2003;BR-116;BA;713,045;Manoel Vitorino;Principal;Crescente;Ativo;;-14,175573;-40,259648
 VIA BAHIA;2003;BR-116;BA;773,700;Planalto;Principal;Decrescente;Ativo;;-14,485030;-40,338371
 VIA BAHIA;2003;BR-116;BA;773,800;Planalto;Principal;Crescente;Ativo;;-14,655540;-40,459502
 VIA BAHIA;2003;BR-116;BA;730,050;Boa Nova;Principal;Crescente;Ativo;;-14,758664;-40,694505
-VIA BAHIA;2003;BR-116;BA;840,000;VitÛria da Conquista;Principal;Decrescente;Ativo;;-14,986901;-40,924988
-VIA BAHIA;2003;BR-116;BA;873,000;VitÛria da Conquista;Principal;Decrescente;Ativo;;-15,229022;-41,098772
+VIA BAHIA;2003;BR-116;BA;840,000;Vit√≥ria da Conquista;Principal;Decrescente;Ativo;;-14,986901;-40,924988
+VIA BAHIA;2003;BR-116;BA;873,000;Vit√≥ria da Conquista;Principal;Decrescente;Ativo;;-15,229022;-41,098772
 VIA BAHIA;2003;BR-116;BA;916,900;Encruzilhada;Principal;Decrescente;Ativo;;-15,569794;-41,269785
 VIA COSTEIRA;2020;BR-101;SC;272,000;Imbituba;Principal;Crescente;Ativo;;-28,122861;-48,696694
 VIA COSTEIRA;2020;BR-101;SC;281,590;Imbituba;Principal;Crescente;Ativo;;-28,208417;-48,699167
 VIA COSTEIRA;2020;BR-101;SC;290,330;Imbituba;Principal;Decrescente;Ativo;;-28,284664;-48,703528
 VIA COSTEIRA;2020;BR-101;SC;318,853;Pescaria Brava;Principal;Crescente;Ativo;;-28,426917;-48,885242
-VIA COSTEIRA;2020;BR-101;SC;330,000;Tubar„o;Principal;Decrescente;Ativo;;-28,456806;-48,982750
-VIA COSTEIRA;2020;BR-101;SC;338,450;Tubar„o;Principal;Crescente;Ativo;;-28,499639;-49,046083
-VIA COSTEIRA;2020;BR-101;SC;377,340;IÁara;Principal;Decrescente;Ativo;;-28,746806;-49,260194
-VIA COSTEIRA;2020;BR-101;SC;399,858;Maracaj·;Principal;Crescente;Ativo;;-28,863139;-49,445917
-VIA COSTEIRA;2020;BR-101;SC;418,000;Ararangu·;Principal;Decrescente;Ativo;;-28,985211;-49,541722
+VIA COSTEIRA;2020;BR-101;SC;330,000;Tubar√£o;Principal;Decrescente;Ativo;;-28,456806;-48,982750
+VIA COSTEIRA;2020;BR-101;SC;338,450;Tubar√£o;Principal;Crescente;Ativo;;-28,499639;-49,046083
+VIA COSTEIRA;2020;BR-101;SC;377,340;I√ßara;Principal;Decrescente;Ativo;;-28,746806;-49,260194
+VIA COSTEIRA;2020;BR-101;SC;399,858;Maracaj√°;Principal;Crescente;Ativo;;-28,863139;-49,445917
+VIA COSTEIRA;2020;BR-101;SC;418,000;Ararangu√°;Principal;Decrescente;Ativo;;-28,985211;-49,541722
 VIA COSTEIRA;2020;BR-101;SC;439,339;Sombrio;Principal;Crescente;Ativo;;-29,124417;-49,668797
 VIA SUL;2019;BR-101;RS;0,060;Torres;Principal;Crescente;Ativo;;-29,300000;-49,770556
 VIA SUL;2019;BR-101;RS;8,700;Torres;Principal;Crescente;Ativo;;-29,364167;-49,812222
-VIA SUL;2019;BR-101;RS;13,640;Dom Pedro de Alc‚ntara;Principal;Crescente;Ativo;;-29,409828;-49,857694
-VIA SUL;2019;BR-101;RS;19,140;TrÍs Cachoeiras;Principal;Crescente;Ativo;;-29,425556;-49,881111
-VIA SUL;2019;BR-101;RS;22,400;TrÍs Cachoeiras;Principal;Crescente;Ativo;;-29,443623;-49,906944
-VIA SUL;2019;BR-101;RS;30,200;TrÍs Cachoeiras;Principal;Crescente;Ativo;;-29,482500;-49,971111
+VIA SUL;2019;BR-101;RS;13,640;Dom Pedro de Alc√¢ntara;Principal;Crescente;Ativo;;-29,409828;-49,857694
+VIA SUL;2019;BR-101;RS;19,140;Tr√™s Cachoeiras;Principal;Crescente;Ativo;;-29,425556;-49,881111
+VIA SUL;2019;BR-101;RS;22,400;Tr√™s Cachoeiras;Principal;Crescente;Ativo;;-29,443623;-49,906944
+VIA SUL;2019;BR-101;RS;30,200;Tr√™s Cachoeiras;Principal;Crescente;Ativo;;-29,482500;-49,971111
 VIA SUL;2019;BR-101;RS;43,300;Terra de Areia;Principal;Decrescente;Ativo;;-29,561944;-50,046389
-VIA SUL;2019;BR-101;RS;61,800;MaquinÈ;Principal;Decrescente;Ativo;;-29,691453;-50,158164
-VIA SUL;2019;BR-101;RS;66,600;MaquinÈ;Principal;Crescente;Ativo;;-29,720000;-50,194444
-VIA SUL;2019;BR-101;RS;67,400;MaquinÈ;Principal;Crescente;Ativo;;-29,726111;-50,200000
-VIA SUL;2019;BR-101;RS;69,400;OsÛrio;Principal;Crescente;Ativo;;-29,740892;-50,210414
-VIA SUL;2019;BR-101;RS;71,090;OsÛrio;Principal;Decrescente;Ativo;;-29,756450;-50,215203
-VIA SUL;2019;BR-101;RS;84,300;OsÛrio;Principal;Decrescente;Ativo;;-29,866528;-50,250528
-VIA SUL;2019;BR-290;RS;0,160;OsÛrio;Principal;Crescente;Ativo;;-29,888056;-50,276944
-VIA SUL;2019;BR-290;RS;1,130;OsÛrio;Principal;Crescente;Ativo;;-29,893967;-50,284153
-VIA SUL;2019;BR-290;RS;3,100;OsÛrio;Principal;Crescente;Ativo;;-29,897842;-50,303603
-VIA SUL;2019;BR-290;RS;22,680;Santo AntÙnio da Patrulha;Principal;Crescente;Ativo;;-29,886389;-50,481944
-VIA SUL;2019;BR-290;RS;34,280;Santo AntÙnio da Patrulha;Principal;Crescente;Ativo;;-29,885739;-50,599131
-VIA SUL;2019;BR-290;RS;65,120;GravataÌ;Principal;Decrescente;Ativo;;-29,943361;-50,906150
-VIA SUL;2019;BR-290;RS;72,300;GravataÌ;Principal;Decrescente;Ativo;;-29,953056;-50,979722
+VIA SUL;2019;BR-101;RS;61,800;Maquin√©;Principal;Decrescente;Ativo;;-29,691453;-50,158164
+VIA SUL;2019;BR-101;RS;66,600;Maquin√©;Principal;Crescente;Ativo;;-29,720000;-50,194444
+VIA SUL;2019;BR-101;RS;67,400;Maquin√©;Principal;Crescente;Ativo;;-29,726111;-50,200000
+VIA SUL;2019;BR-101;RS;69,400;Os√≥rio;Principal;Crescente;Ativo;;-29,740892;-50,210414
+VIA SUL;2019;BR-101;RS;71,090;Os√≥rio;Principal;Decrescente;Ativo;;-29,756450;-50,215203
+VIA SUL;2019;BR-101;RS;84,300;Os√≥rio;Principal;Decrescente;Ativo;;-29,866528;-50,250528
+VIA SUL;2019;BR-290;RS;0,160;Os√≥rio;Principal;Crescente;Ativo;;-29,888056;-50,276944
+VIA SUL;2019;BR-290;RS;1,130;Os√≥rio;Principal;Crescente;Ativo;;-29,893967;-50,284153
+VIA SUL;2019;BR-290;RS;3,100;Os√≥rio;Principal;Crescente;Ativo;;-29,897842;-50,303603
+VIA SUL;2019;BR-290;RS;22,680;Santo Ant√¥nio da Patrulha;Principal;Crescente;Ativo;;-29,886389;-50,481944
+VIA SUL;2019;BR-290;RS;34,280;Santo Ant√¥nio da Patrulha;Principal;Crescente;Ativo;;-29,885739;-50,599131
+VIA SUL;2019;BR-290;RS;65,120;Gravata√≠;Principal;Decrescente;Ativo;;-29,943361;-50,906150
+VIA SUL;2019;BR-290;RS;72,300;Gravata√≠;Principal;Decrescente;Ativo;;-29,953056;-50,979722
 VIA SUL;2019;BR-290;RS;83,140;Cachoeirinha;Principal;Decrescente;Ativo;;-29,960000;-51,089722
 VIA SUL;2019;BR-290;RS;89,720;Porto Alegre;Principal;Decrescente;Ativo;;-29,968056;-51,154722
 VIA SUL;2019;BR-290;RS;93,430;Porto Alegre;Principal;Crescente;Ativo;;-29,970644;-51,189444
 VIA SUL;2019;BR-290;RS;94,215;Porto Alegre;Principal;Crescente;Ativo;;-29,975342;-51,199097
 VIA SUL;2019;BR-290;RS;95,730;Porto Alegre;Principal;Crescente;Ativo;;-29,988125;-51,203714
 VIA SUL;2019;BR-290;RS;97,800;Porto Alegre;Principal;Decrescente;Ativo;;-29,994706;-51,217300
-VIA SUL;2019;BR-386;RS;191,220;Santo AntÙnio do Planalto;Principal;Crescente;Ativo;;-28,390703;-52,697911
-VIA SUL;2019;BR-386;RS;227,900;MormaÁo;Principal;Crescente;Ativo;;-28,576944;-52,596111
+VIA SUL;2019;BR-386;RS;191,220;Santo Ant√¥nio do Planalto;Principal;Crescente;Ativo;;-28,390703;-52,697911
+VIA SUL;2019;BR-386;RS;227,900;Morma√ßo;Principal;Crescente;Ativo;;-28,576944;-52,596111
 VIA SUL;2019;BR-386;RS;250,050;Soledade;Principal;Crescente;Ativo;;-28,826997;-52,467583
 VIA SUL;2019;BR-386;RS;268,300;Fontoura Xavier;Principal;Crescente;Ativo;;-28,957500;-52,373333
-VIA SUL;2019;BR-386;RS;281,600;S„o JosÈ do Herval;Principal;Crescente;Ativo;;-29,043206;-52,297924
+VIA SUL;2019;BR-386;RS;281,600;S√£o Jos√© do Herval;Principal;Crescente;Ativo;;-29,043206;-52,297924
 VIA SUL;2019;BR-386;RS;301,220;Pouso Novo;Principal;Decrescente;Ativo;;-29,169722;-52,212500
 VIA SUL;2019;BR-386;RS;317,020;Marques de Souza;Principal;Crescente;Ativo;;-29,263889;-52,145833
 VIA SUL;2019;BR-386;RS;338,420;Forquetinha;Principal;Decrescente;Ativo;;-29,406747;-52,033006
@@ -549,8 +549,8 @@ VIA SUL;2019;BR-386;RS;346,650;Lajeado;Principal;Crescente;Ativo;;-29,449861;-51
 VIA SUL;2019;BR-386;RS;351,880;Estrela;Principal;Crescente;Ativo;;-29,488817;-51,953267
 VIA SUL;2019;BR-386;RS;359,220;Estrela;Principal;Crescente;Ativo;;-29,542778;-51,911667
 VIA SUL;2019;BR-386;RS;363,080;Bom Retiro do Sul;Principal;Crescente;Ativo;;-29,561944;-51,880000
-VIA SUL;2019;BR-386;RS;382,250;TabaÌ;Principal;Crescente;Ativo;;-29,650114;-51,762331
-VIA SUL;2019;BR-386;RS;387,000;TabaÌ;Principal;Crescente;Ativo;;-29,692106;-51,704181
+VIA SUL;2019;BR-386;RS;382,250;Taba√≠;Principal;Crescente;Ativo;;-29,650114;-51,762331
+VIA SUL;2019;BR-386;RS;387,000;Taba√≠;Principal;Crescente;Ativo;;-29,692106;-51,704181
 VIA SUL;2019;BR-386;RS;391,600;Triunfo;Principal;Decrescente;Ativo;;-29,703331;-51,659769
 VIA SUL;2019;BR-386;RS;411,750;Triunfo;Principal;Decrescente;Ativo;;-29,806819;-51,500383
 VIA SUL;2019;BR-386;RS;420,800;Montenegro;Principal;Decrescente;Ativo;;-29,814931;-51,412478
